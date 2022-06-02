@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, 16tv Budapes
+#EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
 https://cloudfront41.lexanetwork.com:1540/HDE019.webm
@@ -135,8 +135,6 @@ https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
 https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, Muzsika TV
 https://stream.y5.hu:443/stream/stream_muzsikatv/stream.m3u8
-#EXTINF:-1, Zenebutik
-https://streaming.mytvback.com:443/stream/eKVklQMAIcAgm20VZdftOg/1654140878/channel049/stream.m3u8
 #EXTINF:-1, Izaura TV
 http://152.66.115.226:33390/bysid/204
 #EXTINF:-1, Főnix TV
@@ -153,8 +151,6 @@ https://stream.streaming4u.hu:443/GloboTV/index.m3u8
 http://85.90.176.40:8081/szentestv.f4v
 #EXTINF:-1, Dikh TV
 http://152.66.115.226:33390/bysid/205
-#EXTINF:-1, FEM3
-https://streaming.mytvback.com:443/stream/e1C2S9zJCeHvmlVKMZCclA/1654140866/channel016/stream.m3u8
 #EXTINF:-1, MusicPlus
 https://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1, RTVE
@@ -171,8 +167,6 @@ http://152.66.115.226:33390/bysid/208
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:-1, Spektrum Home
 http://152.66.115.226:33390/bysid/207
-#EXTINF:-1, Life TV
-https://streaming.mytvback.com:443/stream/HfeueUBwdNBJfL04sCXf0w/1654140891/channel043/stream.m3u8
 #EXTINF:-1, DragonHall+ TV
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 #EXTINF:-1, T1 Televízió
