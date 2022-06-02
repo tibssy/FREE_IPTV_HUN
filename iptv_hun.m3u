@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U update=<function time_stamp at 0x7f9d38b790>
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -173,6 +173,8 @@ https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, Life TV
 https://streaming.mytvback.com:443/stream/pxr3Jc6zS0PV2AeGr95z7w/1654212842/channel043/stream.m3u8
+#EXTINF:-1, DragonHall+ TV
+https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 #EXTINF:-1, T1 Televízió
 http://91.82.85.41:1935/liverelay/filmtvlive.sdp/playlist.m3u8
 #EXTINF:-1, Gólya TV
