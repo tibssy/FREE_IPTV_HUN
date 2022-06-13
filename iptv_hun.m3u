@@ -1,4 +1,4 @@
-#EXTM3U update=2022-06-12 01:00
+#EXTM3U update=2022-06-13 01:00
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -33,8 +33,6 @@ https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u
 http://cloudfront44.lexanetwork.com:1730/hlsrelay010/hls/livestream.sdp.m3u8
 #EXTINF:-1, Zalaegerszegi Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
-#EXTINF:-1, Fix TV
-https://fixhd.tv:8082/fix/1080i/playlist.m3u8
 #EXTINF:-1, Tisza TV
 https://www.tiszatv.hu:443/onlinetv/tiszatv_1.m3u8
 #EXTINF:-1, Kecskeméti Televízió
@@ -55,20 +53,16 @@ https://stream2.nmih.hu:4102/live.m3u8
 https://5cd03f21c7193.streamlock.net:443/btkt/udp.stream_360p/playlist.m3u8
 #EXTINF:-1, Halom TV
 http://stream.battanet.hu:8080/hls/livestream1/index.m3u8
-#EXTINF:-1, Ózdi Városi Televízió
-https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.gq:443/hirtv_delayed/00gMyETNxITM.m3u8
+https://player.mediaklikk.gq:443/hirtv_delayed/00gMyETNxMTM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1, XVTV
 https://cloudfront63.lexanetwork.com:1344/livecaster79341q3/liverelay001.sdp/playlist.m3u8
-#EXTINF:-1, Jászsági Térségi TV
-https://cloudfront63.lexanetwork.com:1344/relay02/livestream002.sdp/playlist.m3u8
 #EXTINF:-1, EWTN
 https://stream.y5.hu:443/stream/stream_bonum/stream.m3u8
 #EXTINF:-1, Light Channel TV
@@ -106,7 +100,7 @@ https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 #EXTINF:-1, Apostol TV
 http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1, M3
-https://player.mediaklikk.gq:443/m3/00gMyETNxITM.m3u8
+https://player.mediaklikk.gq:443/m3/00gMyETNxMTM.m3u8
 #EXTINF:-1, RTL Klub
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:-1, RTL2
@@ -126,7 +120,7 @@ https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, Muzsika TV
 https://stream.y5.hu:443/stream/stream_muzsikatv/stream.m3u8
 #EXTINF:-1, Zenebutik
-https://streaming.mytvback.com:443/stream/jMdIvKNxGp90zj8-C89wuA/1655014261/channel049/stream.m3u8
+https://streaming.mytvback.com:443/stream/63GtEhCZUT3Y06aJz-SJGw/1655089899/channel049/stream.m3u8
 #EXTINF:-1, Izaura TV
 http://152.66.115.226:33390/bysid/204
 #EXTINF:-1, Főnix TV
@@ -148,7 +142,7 @@ http://85.90.176.40:8081/szentestv.f4v
 #EXTINF:-1, Dikh TV
 http://152.66.115.226:33390/bysid/205
 #EXTINF:-1, FEM3
-https://streaming.mytvback.com:443/stream/O8DjLZmUXZ8n4UtKF-Lyfg/1655014311/channel016/stream.m3u8
+https://streaming.mytvback.com:443/stream/3uWAjgGWKXDeSR-0QUCkmA/1655089869/channel016/stream.m3u8
 #EXTINF:-1, MusicPlus
 https://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1, RTVE
@@ -168,7 +162,7 @@ https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:-1, Spektrum Home
 http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, Life TV
-https://streaming.mytvback.com:443/stream/8rt2IXAX_93WiKudWD6fqA/1655014299/channel043/stream.m3u8
+https://streaming.mytvback.com:443/stream/GHj1Ec3UOsaBkgRTv5s6Xw/1655089881/channel043/stream.m3u8
 #EXTINF:-1, DragonHall+ TV
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 #EXTINF:-1, T1 Televízió
@@ -183,8 +177,6 @@ https://cloudfront63.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u
 http://152.66.115.226:33390/bysid/206
 #EXTINF:-1, Daru TV
 https://5cd03f21c7193.streamlock.net:443/darutv/darutvlive/playlist.m3u8
-#EXTINF:-1, Móra-Net TV
-https://stream.moranettv.hu:443/live/index.m3u8
 #EXTINF:-1, Kiskőrös TV
 https://5cd03f21c7193.streamlock.net:443/kiskorostv/korostvlive/playlist.m3u8
 #EXTINF:-1, Boomerang
