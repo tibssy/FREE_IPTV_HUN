@@ -1,4 +1,4 @@
-#EXTM3U update=2022-06-23 01:00
+#EXTM3U update=2022-06-24 01:00
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -16,13 +16,15 @@ https://cloudfront44.lexanetwork.com:1540/HDE003.webm
 #EXTINF:-1, Zugló TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
 #EXTINF:-1, Fehérvár TV
-https://cloudfront44.lexanetwork.com:1540/HDE016.webm
+https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
 #EXTINF:-1, TV Keszthely
 http://cloudfront41.lexanetwork.com:1630/HDE023.webm
 #EXTINF:-1, Kanizsa TV
 https://91.82.85.44:1540/HDE024.webm
 #EXTINF:-1, TV Eger
 http://stream.tveger.hu:8010/hls/live.m3u8
+#EXTINF:-1, City TV
+https://citytv.hu:443/media/live/stream.m3u8
 #EXTINF:-1, Rákosmente TV
 http://rakosmentetv.hu:8080/hls/rmtv.m3u8
 #EXTINF:-1, Gyöngyösi TV
@@ -56,7 +58,7 @@ http://stream.battanet.hu:8080/hls/livestream1/index.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.gq:443/hirtv_delayed/00gMyETNxMjM.m3u8
+https://player.mediaklikk.gq:443/hirtv_delayed/00gMyETNxQjM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -110,7 +112,7 @@ http://5.38.198.105:8001/play/fish
 #EXTINF:-1, Apostol TV
 http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1, M3
-https://player.mediaklikk.gq:443/m3/00gMyETNxMjM.m3u8
+https://player.mediaklikk.gq:443/m3/00gMyETNxQjM.m3u8
 #EXTINF:-1, National Geographic
 http://5.38.198.105:8001/play/a04b
 #EXTINF:-1, National Geographic Wild
@@ -138,7 +140,7 @@ http://5.38.198.105:8001/play/a04e
 #EXTINF:-1, Sláger TV
 http://5.38.198.105:8001/play/slager
 #EXTINF:-1, Zenebutik
-https://streaming.mytvback.com:443/stream/PhIW0aeDFlhdiFmJhNeiAw/1655955248/channel049/stream.m3u8
+https://streaming.mytvback.com:443/stream/UWE-H_4Ngh_s_4WCimwlgw/1656041678/channel049/stream.m3u8
 #EXTINF:-1, Izaura TV
 http://213.81.201.113:8082/bysid/31223
 #EXTINF:-1, Főnix TV
@@ -166,7 +168,7 @@ http://85.90.176.40:8081/szentestv.f4v
 #EXTINF:-1, Dikh TV
 http://152.66.115.226:33390/bysid/205
 #EXTINF:-1, FEM3
-https://streaming.mytvback.com:443/stream/Ae58puFIjaYdN_U9GGxFtg/1655955241/channel016/stream.m3u8
+https://streaming.mytvback.com:443/stream/qwPv0gizK6G7trWmby0s2w/1656041653/channel016/stream.m3u8
 #EXTINF:-1, PAX Televízió
 http://5.38.198.105:8001/play/pax
 #EXTINF:-1, MusicPlus
@@ -188,7 +190,7 @@ https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:-1, Spektrum Home
 http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, Life TV
-https://streaming.mytvback.com:443/stream/lekwNoobDBncEVpK9S2dUQ/1655955297/channel043/stream.m3u8
+https://streaming.mytvback.com:443/stream/lwv2nDO5H9sdaToMs9Ex9Q/1656041647/channel043/stream.m3u8
 #EXTINF:-1, DragonHall+ TV
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 #EXTINF:-1, T1 Televízió
@@ -216,7 +218,7 @@ http://80.96.25.163:7878/play/a04l/index.m3u8
 #EXTINF:-1, Prime
 http://5.38.198.105:8001/play/a046
 #EXTINF:-1, Nicktoons
-http://193.32.37.17:8000/play/a00b/index.m3u8
+http://80.96.25.163:7878/play/a03w/index.m3u8
 #EXTINF:-1, TV2 Kids
 http://5.38.198.105:8001/play/tv2kids
 #EXTINF:-1, Sport 1
@@ -248,7 +250,7 @@ http://5.38.198.105:8001/play/a02z
 #EXTINF:-1, Nickelodeon
 http://80.96.25.163:7878/play/a03v/index.m3u8
 #EXTINF:-1, Nick Jr
-http://193.32.37.17:8000/play/a006/index.m3u8
+http://213.81.133.130:8000/play/NickJr
 #EXTINF:-1, Disney Channel
 http://213.81.133.130:8000/play/DisneyChannel
 #EXTINF:-1, Discovery Channel
