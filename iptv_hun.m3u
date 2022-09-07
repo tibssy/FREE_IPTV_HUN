@@ -1,4 +1,4 @@
-#EXTM3U update=2022-09-06 01:00
+#EXTM3U update=2022-09-07 01:00
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -60,7 +60,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv/yITM4EjN.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/yITM4EzN.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -73,12 +73,16 @@ https://stream.y5.hu:443/stream/stream_bonum/stream.m3u8
 http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8
 #EXTINF:-1, Hatoscsatorna
 https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
+#EXTINF:-1, Kölcsey Televízió
+https://stream.tamanet.hu:443/stream.m3u8
 #EXTINF:-1, Tatai TV
 https://cloudfront63.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 #EXTINF:-1, Líceum TV
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1, Kapos TV
 https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+#EXTINF:-1, Bábolna TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
 #EXTINF:-1, Makó TV
 http://makomedia.mikrohalo.hu:80/hls/makotv.m3u8
 #EXTINF:-1, 7.tv
@@ -97,16 +101,10 @@ https://stream.nmih.hu:7962/live.m3u8
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, Balaton TV
 https://stream.iptvservice.eu:443/hls/balatontv.m3u8
-#EXTINF:-1, Fishing & Hunting
-http://92.240.225.4:9999/play/65-11-hun
 #EXTINF:-1, Apostol TV
 http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1, M3
-https://player.mediaklikk.org:443/m3/yITM4EjN.m3u8
-#EXTINF:-1, National Geographic
-http://92.240.225.4:9999/play/65-78-hun
-#EXTINF:-1, National Geographic Wild
-http://92.240.225.4:9999/play/65-77-hun
+https://player.mediaklikk.org:443/m3/yITM4EzN.m3u8
 #EXTINF:-1, RTL Klub
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:-1, RTL2
@@ -127,20 +125,14 @@ https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
 https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, Muzsika TV
 https://stream.y5.hu:443/stream/stream_muzsikatv/stream.m3u8
-#EXTINF:-1, Sláger TV
-http://92.240.225.4:9999/play/67-12-hun
 #EXTINF:-1, Zenebutik
-https://streaming.mytvback.com:443/stream/_YL6H9Mgep6RtrVvkALEAw/1662435276/channel049/stream.m3u8
+https://streaming.mytvback.com:443/stream/0zmtRZvLT-DGExjHbmfQ_g/1662518057/channel049/stream.m3u8
 #EXTINF:-1, Izaura TV
 http://213.81.201.113:8082/bysid/31223
 #EXTINF:-1, Főnix TV
 https://stream.streaming4u.hu:443/FonixTV/index.m3u8
 #EXTINF:-1, Óbuda TV
 https://stream.streaming4u.hu:443/ObudaTV/index.m3u8
-#EXTINF:-1, TV4
-http://92.240.225.4:9999/play/67-96-hun
-#EXTINF:-1, Story4
-http://92.240.225.4:9999/play/67-97-hun
 #EXTINF:-1, Csurgó TV
 https://5cd03f21c7193.streamlock.net:443/csurgotv/csurgolive/playlist.m3u8
 #EXTINF:-1, Pilis TV
@@ -151,8 +143,6 @@ https://stream.streaming4u.hu:443/GloboTV/index.m3u8
 http://85.90.176.40:8081/szentestv.f4v
 #EXTINF:-1, Dikh TV
 http://152.66.115.226:33390/bysid/205
-#EXTINF:-1, FEM3
-http://92.240.225.4:9999/play/67-50-hun
 #EXTINF:-1, MusicPlus
 https://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1, RTVE
@@ -170,7 +160,7 @@ https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:-1, Spektrum Home
 http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, Life TV
-https://streaming.mytvback.com:443/stream/rCLXfrzMgR1UzD0ZoIJTfQ/1662435290/channel043/stream.m3u8
+https://streaming.mytvback.com:443/stream/yn-BIwNpH-FzYznrANcGxw/1662521662/channel043/stream.m3u8
 #EXTINF:-1, DragonHall+ TV
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 #EXTINF:-1, T1 Televízió
@@ -187,89 +177,23 @@ https://5cd03f21c7193.streamlock.net:443/darutv/darutvlive/playlist.m3u8
 https://stream.moranettv.hu:443/live/index.m3u8
 #EXTINF:-1, Kiskőrös TV
 https://5cd03f21c7193.streamlock.net:443/kiskorostv/korostvlive/playlist.m3u8
-#EXTINF:-1, Boomerang
-http://92.240.225.4:9999/play/65-52-hun
-#EXTINF:-1, Nicktoons
-http://92.240.225.4:9999/play/64-237-hun
-#EXTINF:-1, Super TV2
-http://92.240.225.4:9999/play/67-2-hun
 #EXTINF:-1, Régió TV
 http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 #EXTINF:-1, Völgyhíd TV
 https://5cd03f21c7193.streamlock.net:443/volgyhidtv/mediakft/playlist.m3u8
-#EXTINF:-1, Viasat History
-http://92.240.225.4:9999/play/75-50-hun
-#EXTINF:-1, Spektrum
-http://92.240.225.4:9999/play/66-24-hun
-#EXTINF:-1, TLC
-http://92.240.225.4:9999/play/65-48-hun
-#EXTINF:-1, Nickelodeon
-http://92.240.225.4:9999/play/64-140-hun
-#EXTINF:-1, Nick Jr
-http://92.240.225.4:9999/play/64-167-hun
-#EXTINF:-1, Disney Channel
-http://92.240.225.4:9999/play/69-3-hun
-#EXTINF:-1, Discovery Channel
-http://92.240.225.4:9999/play/68-2-hun
 #EXTINF:-1, Berente TV
 https://stream.streaming4u.hu:443/BerenteTV/index.m3u8
-#EXTINF:-1, Animal Planet
-http://92.240.225.4:9999/play/68-3-hun
-#EXTINF:-1, Viasat Nature
-http://92.240.225.4:9999/play/75-51-hun
 #EXTINF:-1, Filmbox Family
 http://185.186.81.78:8002/play/a0ak
-#EXTINF:-1, Filmbox Stars
-http://92.240.225.4:9999/play/67-23-hun
-#EXTINF:-1, Minimax
-http://92.240.225.4:9999/play/77-4-hun
-#EXTINF:-1, JimJam
-http://92.240.225.4:9999/play/69-2-hun
-#EXTINF:-1, TV2 Séf
-http://92.240.225.4:9999/play/67-29-hun
-#EXTINF:-1, AXN White
-http://92.240.225.4:9999/play/65-17-hun
 #EXTINF:-1, Filmbox
 http://185.186.81.78:8002/play/a0al
-#EXTINF:-1, AXN Black
-http://92.240.225.4:9999/play/65-18-hun
-#EXTINF:-1, CBS Reality
-http://92.240.225.4:9999/play/64-244-hun
 #EXTINF:-1, Classics TV
 https://s03.diazol.hu:7152/hls/live.m3u8
-#EXTINF:-1, Cartoon Network
-http://92.240.225.4:9999/play/67-16-hun
-#EXTINF:-1, HGTV
-http://92.240.225.4:9999/play/64-84-hun
-#EXTINF:-1, History
-http://92.240.225.4:9999/play/65-55-hun
-#EXTINF:-1, Discovery Science
-http://92.240.225.4:9999/play/65-2-hun
-#EXTINF:-1, Investigation Discovery
-http://92.240.225.4:9999/play/65-33-hun
 #EXTINF:-1, Bicskei Városi Televízió
 https://cloudfront63.lexanetwork.com:1344/relay02/livestream003.sdp/chunks.m3u8
-#EXTINF:-1, Filmbox Extra
-http://92.240.225.4:9999/play/66-11-hun
-#EXTINF:-1, Galaxy 4
-http://92.240.225.4:9999/play/67-99-hun
-#EXTINF:-1, DTX
-http://92.240.225.4:9999/play/65-1-hun
-#EXTINF:-1, Travel
-http://92.240.225.4:9999/play/64-211-hun
-#EXTINF:-1, Food Network
-http://92.240.225.4:9999/play/65-144-hun
 #EXTINF:-1, Wsat
 https://s14.ssl-stream.com:3922/stream/play.m3u8
 #EXTINF:-1, Weekend TV
 https://stream.streaming4u.hu/WeekendTV/index.m3u8
-#EXTINF:-1, Love Nature
-http://92.240.225.4:9999/play/75-30-hun
 #EXTINF:-1, Webcentrum Online
 https://s14.ssl-stream.com:3922/stream/play.m3u8
-#EXTINF:-1, Eurosport 1
-http://92.240.225.4:9999/play/69-4-hun
-#EXTINF:-1, Eurosport 2
-http://92.240.225.4:9999/play/64-139-hun
-#EXTINF:-1, Autó Motor Sport
-http://92.240.225.4:9999/play/68-14-hun
