@@ -1,4 +1,4 @@
-#EXTM3U update=2022-09-10 01:00
+#EXTM3U update=2022-09-11 01:00
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -55,12 +55,10 @@ https://stream2.nmih.hu:4102/live.m3u8
 https://5cd03f21c7193.streamlock.net:443/btkt/udp.stream_360p/playlist.m3u8
 #EXTINF:-1, Halom TV
 http://stream.battanet.hu:8080/hls/livestream1/index.m3u8
-#EXTINF:-1, Ózdi Városi Televízió
-https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv/00gMyEDOxATM.m3u8
+https://player.mediaklikk.org:443/hirtv/00gMyEDOxETM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -100,11 +98,17 @@ https://stream.nmih.hu:7962/live.m3u8
 #EXTINF:-1, TV Budakalász
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, Balaton TV
-https://stream.iptvservice.eu:443/hls/balatontv.m3u8
+http://45.14.11.3:8000/udp/238.42.0.1:1234
+#EXTINF:-1, Fishing & Hunting
+http://185.216.167.18:5555/play/a044
 #EXTINF:-1, Apostol TV
 http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1, M3
-https://player.mediaklikk.org:443/m3/00gMyEDOxATM.m3u8
+https://player.mediaklikk.org:443/m3/00gMyEDOxETM.m3u8
+#EXTINF:-1, National Geographic
+http://185.216.167.18:5555/play/a03w
+#EXTINF:-1, National Geographic Wild
+http://185.216.167.18:5555/play/a03x
 #EXTINF:-1, RTL Klub
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:-1, RTL2
@@ -125,14 +129,22 @@ https://stream.y5.hu:443/stream/stream_sorozatp/stream.m3u8
 https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, Muzsika TV
 https://stream.y5.hu:443/stream/stream_muzsikatv/stream.m3u8
+#EXTINF:-1, Mozi+
+http://185.216.167.18:5555/play/a00s
+#EXTINF:-1, Sláger TV
+http://185.216.167.18:5555/play/a00u
 #EXTINF:-1, Zenebutik
-https://streaming.mytvback.com:443/stream/FISEvigQUJqiSx6hJwucQg/1662790288/channel049/stream.m3u8
+https://streaming.mytvback.com:443/stream/OTvZ91Dpc_c2RmgP1RLIzA/1662876713/channel049/stream.m3u8
 #EXTINF:-1, Izaura TV
 http://213.81.201.113:8082/bysid/31223
 #EXTINF:-1, Főnix TV
 https://stream.streaming4u.hu:443/FonixTV/index.m3u8
 #EXTINF:-1, Óbuda TV
 https://stream.streaming4u.hu:443/ObudaTV/index.m3u8
+#EXTINF:-1, TV4
+http://185.216.167.18:5555/play/a026
+#EXTINF:-1, Story4
+http://185.216.167.18:5555/play/a02b
 #EXTINF:-1, Csurgó TV
 https://5cd03f21c7193.streamlock.net:443/csurgotv/csurgolive/playlist.m3u8
 #EXTINF:-1, Pilis TV
@@ -143,6 +155,8 @@ https://stream.streaming4u.hu:443/GloboTV/index.m3u8
 http://85.90.176.40:8081/szentestv.f4v
 #EXTINF:-1, Dikh TV
 http://152.66.115.226:33390/bysid/205
+#EXTINF:-1, FEM3
+http://185.216.167.18:5555/play/a00m
 #EXTINF:-1, MusicPlus
 https://s02.diazol.hu:10192/stream.m3u8
 #EXTINF:-1, RTVE
@@ -160,7 +174,9 @@ https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:-1, Spektrum Home
 http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, Life TV
-https://streaming.mytvback.com:443/stream/py-IP3MjoLC8r3uMcE2tXw/1662790268/channel043/stream.m3u8
+https://streaming.mytvback.com:443/stream/gZ1i-bwOs7tm2G0Gqv_odQ/1662876694/channel043/stream.m3u8
+#EXTINF:-1, DragonHall+ TV
+https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 #EXTINF:-1, T1 Televízió
 http://91.82.85.41:1935/liverelay/filmtvlive.sdp/playlist.m3u8
 #EXTINF:-1, Gólya TV
@@ -175,23 +191,97 @@ https://5cd03f21c7193.streamlock.net:443/darutv/darutvlive/playlist.m3u8
 https://stream.moranettv.hu:443/live/index.m3u8
 #EXTINF:-1, Kiskőrös TV
 https://5cd03f21c7193.streamlock.net:443/kiskorostv/korostvlive/playlist.m3u8
+#EXTINF:-1, Prime
+http://185.216.167.18:5555/play/a020
+#EXTINF:-1, Nicktoons
+http://185.216.167.18:5555/play/a02d
+#EXTINF:-1, Super TV2
+http://185.216.167.18:5555/play/a024
 #EXTINF:-1, Régió TV
 http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 #EXTINF:-1, Völgyhíd TV
 https://5cd03f21c7193.streamlock.net:443/volgyhidtv/mediakft/playlist.m3u8
+#EXTINF:-1, Viasat History
+http://185.216.167.18:5555/play/a04d
+#EXTINF:-1, Spektrum
+http://185.216.167.18:5555/play/a042
+#EXTINF:-1, Comedy Central
+http://185.216.167.18:5555/play/a00g
+#EXTINF:-1, TLC
+http://185.216.167.18:5555/play/a05v
+#EXTINF:-1, Nickelodeon
+http://185.216.167.18:5555/play/a00p
+#EXTINF:-1, Nick Jr
+http://185.216.167.18:5555/play/a00v
+#EXTINF:-1, Disney Channel
+http://185.216.167.18:5555/play/a01u
 #EXTINF:-1, Berente TV
 https://stream.streaming4u.hu:443/BerenteTV/index.m3u8
+#EXTINF:-1, Animal Planet
+http://185.216.167.18:5555/play/a06g
+#EXTINF:-1, TV2 Comedy
+http://185.216.167.18:5555/play/a00j
+#EXTINF:-1, HBO
+http://185.216.167.18:5555/play/a03y
+#EXTINF:-1, Viasat Nature
+http://185.216.167.18:5555/play/a04e
 #EXTINF:-1, Filmbox Family
-http://185.186.81.78:8002/play/a0ak
-#EXTINF:-1, Filmbox
-http://185.186.81.78:8002/play/a0al
+http://185.216.167.18:5555/play/a039
+#EXTINF:-1, Minimax
+http://185.216.167.18:5555/play/a04n
+#EXTINF:-1, JimJam
+http://185.216.167.18:5555/play/a03c
+#EXTINF:-1, AXN White
+http://185.216.167.18:5555/play/a028
+#EXTINF:-1, AXN Black
+http://185.216.167.18:5555/play/a027
+#EXTINF:-1, CBS Reality
+http://185.216.167.18:5555/play/a038
+#EXTINF:-1, Viasat Explore
+http://185.216.167.18:5555/play/a034
+#EXTINF:-1, Epic Drama
+http://185.216.167.18:5555/play/a01y
+#EXTINF:-1, HBO2
+http://185.216.167.18:5555/play/a04g
+#EXTINF:-1, HBO3
+http://185.216.167.18:5555/play/a04h
+#EXTINF:-1, Cinemax
+http://185.216.167.18:5555/play/a031
+#EXTINF:-1, Cinemax 2
+http://185.216.167.18:5555/play/a04j
 #EXTINF:-1, Classics TV
 https://s03.diazol.hu:7152/hls/live.m3u8
+#EXTINF:-1, Extreme Sports Channel
+http://185.216.167.18:5555/play/a029
+#EXTINF:-1, History
+http://185.216.167.18:5555/play/a03b
+#EXTINF:-1, Discovery Science
+http://185.216.167.18:5555/play/a06j
+#EXTINF:-1, Investigation Discovery
+http://185.216.167.18:5555/play/a06i
 #EXTINF:-1, Bicskei Városi Televízió
 https://cloudfront63.lexanetwork.com:1344/relay02/livestream003.sdp/chunks.m3u8
+#EXTINF:-1, Filmbox Extra
+http://185.216.167.18:5555/play/a033
+#EXTINF:-1, Galaxy 4
+http://185.216.167.18:5555/play/a009
+#EXTINF:-1, Comedy Central Family
+http://185.216.167.18:5555/play/a00l
+#EXTINF:-1, DTX
+http://185.216.167.18:5555/play/a05s
+#EXTINF:-1, Travel
+http://185.216.167.18:5555/play/a06h
 #EXTINF:-1, Wsat
 https://s14.ssl-stream.com:3922/stream/play.m3u8
 #EXTINF:-1, Weekend TV
 https://stream.streaming4u.hu/WeekendTV/index.m3u8
+#EXTINF:-1, Love Nature
+http://185.216.167.18:5555/play/a041
 #EXTINF:-1, Webcentrum Online
 https://s14.ssl-stream.com:3922/stream/play.m3u8
+#EXTINF:-1, Eurosport 1
+http://185.216.167.18:5555/play/a05y
+#EXTINF:-1, Eurosport 2
+http://185.216.167.18:5555/play/a05z
+#EXTINF:-1, Autó Motor Sport
+http://185.216.167.18:5555/play/a03k
