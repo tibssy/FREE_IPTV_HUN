@@ -1,4 +1,6 @@
-#EXTM3U update=2022-09-24 01:00
+#EXTM3U update=2022-09-25 01:00
+#EXTINF:-1, 16tv Budapest
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
 https://cloudfront41.lexanetwork.com:1540/HDE019.webm
 #EXTINF:-1, Lóverseny közvetítés
@@ -56,7 +58,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/00gMyEDOxQjM.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/00gMyEDOxUjM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -98,7 +100,7 @@ https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 #EXTINF:-1, Apostol TV
 http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1, M3
-https://player.mediaklikk.org:443/m3/00gMyEDOxQjM.m3u8
+https://player.mediaklikk.org:443/m3/00gMyEDOxUjM.m3u8
 #EXTINF:-1, RTL Klub
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:-1, RTL2
@@ -120,7 +122,7 @@ https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, Muzsika TV
 https://stream.y5.hu:443/stream/stream_muzsikatv/stream.m3u8
 #EXTINF:-1, Zenebutik
-https://streaming.mytvback.com:443/stream/B_jEJOak9-m6K41fFCd1Ng/1663999901/channel049/stream.m3u8
+https://streaming.mytvback.com:443/stream/aOXQEuF5Ks2jw8RSm8Imaw/1664086262/channel049/stream.m3u8
 #EXTINF:-1, Izaura TV
 http://213.81.201.113:8082/bysid/31223
 #EXTINF:-1, Főnix TV
@@ -154,7 +156,7 @@ https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:-1, Spektrum Home
 http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, Life TV
-https://streaming.mytvback.com:443/stream/SzFoJVRlDXvtGR-uJoe-GQ/1663999914/channel043/stream.m3u8
+https://streaming.mytvback.com:443/stream/rWy9OeUxu81v1LzGYFrRFQ/1664086288/channel043/stream.m3u8
 #EXTINF:-1, DragonHall+ TV
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 #EXTINF:-1, T1 Televízió
