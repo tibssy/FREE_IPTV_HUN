@@ -1,4 +1,4 @@
-#EXTM3U update=2022-09-25 01:00
+#EXTM3U update=2022-09-26 01:00
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -21,8 +21,6 @@ https://91.82.85.44:1540/HDE024.webm
 http://stream.tveger.hu:8010/hls/live.m3u8
 #EXTINF:-1, City TV
 https://citytv.hu:443/media/live/stream.m3u8
-#EXTINF:-1, Rákosmente TV
-http://rakosmentetv.hu:8080/hls/rmtv.m3u8
 #EXTINF:-1, Budapest Európa Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:-1, Gyöngyösi TV
@@ -58,7 +56,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/00gMyEDOxUjM.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/00gMyEDOxYjM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -97,10 +95,12 @@ https://stream.nmih.hu:7962/live.m3u8
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, Balaton TV
 https://stream.iptvservice.eu:443/hls/balatontv.m3u8
+#EXTINF:-1, Fishing & Hunting
+http://5.14.125.198:25464/play/a01o/index.m3u8
 #EXTINF:-1, Apostol TV
 http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1, M3
-https://player.mediaklikk.org:443/m3/00gMyEDOxUjM.m3u8
+https://player.mediaklikk.org:443/m3/00gMyEDOxYjM.m3u8
 #EXTINF:-1, RTL Klub
 https://stream.y5.hu:443/stream/stream_rtlklub/hls1/stream.m3u8
 #EXTINF:-1, RTL2
@@ -122,7 +122,7 @@ https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, Muzsika TV
 https://stream.y5.hu:443/stream/stream_muzsikatv/stream.m3u8
 #EXTINF:-1, Zenebutik
-https://streaming.mytvback.com:443/stream/aOXQEuF5Ks2jw8RSm8Imaw/1664086262/channel049/stream.m3u8
+https://streaming.mytvback.com:443/stream/AVqhV9cdYDd0NjAToygP4Q/1664161920/channel049/stream.m3u8
 #EXTINF:-1, Izaura TV
 http://213.81.201.113:8082/bysid/31223
 #EXTINF:-1, Főnix TV
@@ -133,6 +133,8 @@ https://stream.streaming4u.hu:443/ObudaTV/index.m3u8
 https://5cd03f21c7193.streamlock.net:443/csurgotv/csurgolive/playlist.m3u8
 #EXTINF:-1, Pilis TV
 https://stream.streaming4u.hu:443/PilisTV/index.m3u8
+#EXTINF:-1, Da Vinci Kids
+http://5.14.125.198:25464/play/a02x/index.m3u8
 #EXTINF:-1, Globo TV
 https://stream.streaming4u.hu:443/GloboTV/index.m3u8
 #EXTINF:-1, Szentes TV
@@ -156,7 +158,7 @@ https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:-1, Spektrum Home
 http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, Life TV
-https://streaming.mytvback.com:443/stream/rWy9OeUxu81v1LzGYFrRFQ/1664086288/channel043/stream.m3u8
+https://streaming.mytvback.com:443/stream/dYW6HLsSCq0s-1IwR-lC9A/1664161894/channel043/stream.m3u8
 #EXTINF:-1, DragonHall+ TV
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 #EXTINF:-1, T1 Televízió
@@ -179,12 +181,32 @@ https://5cd03f21c7193.streamlock.net:443/kiskorostv/korostvlive/playlist.m3u8
 http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 #EXTINF:-1, Völgyhíd TV
 https://5cd03f21c7193.streamlock.net:443/volgyhidtv/mediakft/playlist.m3u8
+#EXTINF:-1, Viasat History
+http://5.14.125.198:25463/play/a04s/index.m3u8
+#EXTINF:-1, TLC
+http://5.14.125.198:25464/play/a027/index.m3u8
+#EXTINF:-1, Discovery Channel
+http://5.14.125.198:25464/play/a026/index.m3u8
 #EXTINF:-1, Berente TV
 https://stream.streaming4u.hu:443/BerenteTV/index.m3u8
-#EXTINF:-1, Classics TV
-https://s03.diazol.hu:7152/hls/live.m3u8
+#EXTINF:-1, HBO
+http://5.14.125.198:25463/play/a050/index.m3u8
+#EXTINF:-1, Viasat Nature
+http://5.14.125.198:25463/play/a04t/index.m3u8
+#EXTINF:-1, Viasat Explore
+http://5.14.125.198:25463/play/a04k/index.m3u8
+#EXTINF:-1, HBO2
+http://5.14.125.198:25464/play/a02b/index.m3u8
+#EXTINF:-1, HBO3
+http://5.14.125.198:25463/play/a04g/index.m3u8
+#EXTINF:-1, Cinemax
+http://5.14.125.198:25464/play/a01e/index.m3u8
+#EXTINF:-1, Cinemax 2
+http://5.14.125.198:25464/play/a02c/index.m3u8
 #EXTINF:-1, Bicskei Városi Televízió
 https://cloudfront63.lexanetwork.com:1344/relay02/livestream003.sdp/chunks.m3u8
+#EXTINF:-1, Travel
+http://5.14.125.198:25464/play/a02i/index.m3u8
 #EXTINF:-1, Wsat
 https://s14.ssl-stream.com:3922/stream/play.m3u8
 #EXTINF:-1, Weekend TV
