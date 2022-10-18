@@ -1,4 +1,4 @@
-#EXTM3U update=2022-10-17 01:00
+#EXTM3U update=2022-10-18 01:00
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -58,7 +58,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv/00gMyETOxcTM.m3u8
+https://player.mediaklikk.org:443/hirtv/00gMyETOxgTM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -79,8 +79,6 @@ https://stream.tamanet.hu:443/stream.m3u8
 https://cloudfront63.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 #EXTINF:-1, Líceum TV
 http://193.225.32.62:8890/live.m3u8
-#EXTINF:-1, Kapos TV
-https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1, Makó TV
 http://makomedia.mikrohalo.hu:80/hls/makotv.m3u8
 #EXTINF:-1, 7.tv
@@ -102,7 +100,7 @@ https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 #EXTINF:-1, Apostol TV
 http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1, M3
-https://player.mediaklikk.org:443/m3/00gMyETOxcTM.m3u8
+https://player.mediaklikk.org:443/m3/00gMyETOxgTM.m3u8
 #EXTINF:-1, National Geographic
 http://152.66.115.226:33390/bysid/206
 #EXTINF:-1, RTL Klub
@@ -126,7 +124,7 @@ https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, Muzsika TV
 https://stream.y5.hu:443/stream/stream_muzsikatv/stream.m3u8
 #EXTINF:-1, Zenebutik
-https://streaming.mytvback.com:443/stream/NWN77BKxN9su6_FuzgRNkg/1665976300/channel049/stream.m3u8
+https://streaming.mytvback.com:443/stream/BWyCN272CD-6W7NE_X4fLQ/1666064055/channel049/stream.m3u8
 #EXTINF:-1, Izaura TV
 http://213.81.201.113:8082/bysid/31223
 #EXTINF:-1, Főnix TV
@@ -162,7 +160,7 @@ https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:-1, Spektrum Home
 http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, Life TV
-https://streaming.mytvback.com:443/stream/7R-SLUueMluje58xghdkFA/1665976288/channel043/stream.m3u8
+https://streaming.mytvback.com:443/stream/0Z7nYV1QSF7gd9tSDQXP4Q/1666064075/channel043/stream.m3u8
 #EXTINF:-1, DragonHall+ TV
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 #EXTINF:-1, T1 Televízió
