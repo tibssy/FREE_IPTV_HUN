@@ -1,4 +1,4 @@
-#EXTM3U update=2022-11-04 01:00
+#EXTM3U update=2022-11-05 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1540/HDE003.webm
 #EXTINF:-1, Kanizsa TV
@@ -60,7 +60,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv/00gMyEDMxEDN.m3u8
+https://player.mediaklikk.org:443/hirtv/00gMyEDMxETN.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -116,7 +116,7 @@ https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 #EXTINF:-1, Apostol TV
 http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1, M3
-https://player.mediaklikk.org:443/m3/00gMyEDMxEDN.m3u8
+https://player.mediaklikk.org:443/m3/00gMyEDMxETN.m3u8
 #EXTINF:-1, National Geographic
 http://152.66.115.226:33390/bysid/206
 #EXTINF:-1, Sopron TV
@@ -142,9 +142,9 @@ https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, Muzsika TV
 https://stream.y5.hu:443/stream/stream_muzsikatv/stream.m3u8
 #EXTINF:-1, Zenebutik
-https://streaming.mytvback.com:443/stream/55v937MA1B04EgyZcSvOCw/1667536442/channel049/stream.m3u8
+https://streaming.mytvback.com:443/stream/5bE-okZhHRHH3KpwRIY_aw/1667632287/channel049/stream.m3u8
 #EXTINF:-1, Izaura TV
-https://streaming.mytvback.com:443/stream/o2IGGsDi0vUv1ACs7sQnsw/1667536462/channel040/stream.m3u8
+https://streaming.mytvback.com:443/stream/Ej0YoXI0hrnB0izj9QV2MQ/1667632307/channel040/stream.m3u8
 #EXTINF:-1, Főnix TV
 https://stream.streaming4u.hu:443/FonixTV/index.m3u8
 #EXTINF:-1, Óbuda TV
@@ -180,7 +180,7 @@ https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:-1, Spektrum Home
 http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, Life TV
-https://streaming.mytvback.com:443/stream/mXXPTIsLnHuWJotC3ndMxw/1667536449/channel043/stream.m3u8
+https://streaming.mytvback.com:443/stream/CB0MxpvTgtBOgleQZ3yWZg/1667632300/channel043/stream.m3u8
 #EXTINF:-1, DragonHall+ TV
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 #EXTINF:-1, T1 Televízió
