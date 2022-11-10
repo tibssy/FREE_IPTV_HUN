@@ -1,4 +1,4 @@
-#EXTM3U update=2022-11-09 01:00
+#EXTM3U update=2022-11-10 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1540/HDE003.webm
 #EXTINF:-1, Kanizsa TV
@@ -60,7 +60,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv/00gMyEDMxETO.m3u8
+https://player.mediaklikk.org:443/hirtv/0IjMxATMxATM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -75,6 +75,8 @@ https://stream.y5.hu:443/stream/stream_bonum/stream.m3u8
 http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8
 #EXTINF:-1, Hatoscsatorna
 https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
+#EXTINF:-1, Kölcsey Televízió
+https://stream.tamanet.hu:443/stream.m3u8
 #EXTINF:-1, Tatai TV
 https://cloudfront63.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 #EXTINF:-1, Kapos TV
@@ -112,7 +114,7 @@ https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 #EXTINF:-1, Apostol TV
 http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1, M3
-https://player.mediaklikk.org:443/m3/00gMyEDMxETO.m3u8
+https://player.mediaklikk.org:443/m3/0IjMxATMxATM.m3u8
 #EXTINF:-1, National Geographic
 http://152.66.115.226:33390/bysid/206
 #EXTINF:-1, Sopron TV
@@ -138,9 +140,9 @@ https://stream.y5.hu:443/stream/stream_filmp/hls1/stream.m3u8
 #EXTINF:-1, Muzsika TV
 https://stream.y5.hu:443/stream/stream_muzsikatv/stream.m3u8
 #EXTINF:-1, Zenebutik
-https://streaming.mytvback.com:443/stream/j_D2q220_eRd-m4w5ID41g/1667968455/channel049/stream.m3u8
+https://streaming.mytvback.com:443/stream/d6y2_SmnXvnYG5PfEYbTxg/1668054880/channel049/stream.m3u8
 #EXTINF:-1, Izaura TV
-https://streaming.mytvback.com:443/stream/jsNt1VXxFh5MPDnWi50LbQ/1667968481/channel040/stream.m3u8
+https://streaming.mytvback.com:443/stream/_5sSNogElAz-2har0DmDvQ/1668054887/channel040/stream.m3u8
 #EXTINF:-1, Főnix TV
 https://stream.streaming4u.hu:443/FonixTV/index.m3u8
 #EXTINF:-1, Óbuda TV
@@ -178,7 +180,7 @@ https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:-1, Spektrum Home
 http://152.66.115.226:33390/bysid/207
 #EXTINF:-1, Life TV
-https://streaming.mytvback.com:443/stream/Yt3uroKyapWpYPdJceWAbw/1667968449/channel043/stream.m3u8
+https://streaming.mytvback.com:443/stream/zxqhap5ITdXgNX9hIXRsCg/1668054855/channel043/stream.m3u8
 #EXTINF:-1, DragonHall+ TV
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 #EXTINF:-1, T1 Televízió
