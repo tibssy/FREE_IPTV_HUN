@@ -1,4 +1,4 @@
-#EXTM3U update=2022-11-26 01:00
+#EXTM3U update=2022-11-27 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1540/HDE003.webm
 #EXTINF:-1, Kanizsa TV
@@ -60,7 +60,7 @@ http://stream.battanet.hu:8080/hls/livestream1/index.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv/0IjMxATMxYjM.m3u8
+https://player.mediaklikk.org:443/hirtv/0IjMxATMxcjM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -116,7 +116,7 @@ https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 #EXTINF:-1, Apostol TV
 http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1, M3
-https://player.mediaklikk.org:443/m3/0IjMxATMxYjM.m3u8
+https://player.mediaklikk.org:443/m3/0IjMxATMxcjM.m3u8
 #EXTINF:-1, National Geographic
 http://152.66.115.226:33390/bysid/206
 #EXTINF:-1, Sopron TV
@@ -155,6 +155,8 @@ http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 http://152.66.115.226:33390/bysid/205
 #EXTINF:-1, RTVE
 http://79.120.178.90:1935/rtve/rtvelive/playlist.m3u8
+#EXTINF:-1, TV21 Ungvár
+rtmp://213.174.8.15:1935/live/danio
 #EXTINF:-1, Szécsény TV
 http://iptv.eurocable.co.hu:80/EC-SZECSENYTVHD/index.m3u8
 #EXTINF:-1, Alföld TV
@@ -187,16 +189,32 @@ https://5cd03f21c7193.streamlock.net:443/darutv/darutvlive/playlist.m3u8
 https://stream.moranettv.hu:443/live/index.m3u8
 #EXTINF:-1, Kiskőrös TV
 https://5cd03f21c7193.streamlock.net:443/kiskorostv/korostvlive/playlist.m3u8
+#EXTINF:-1, Nicktoons
+http://80.82.18.214:4000/play/a04t/index.m3u8
 #EXTINF:-1, Régió TV
 http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 #EXTINF:-1, Völgyhíd TV
 https://5cd03f21c7193.streamlock.net:443/volgyhidtv/mediakft/playlist.m3u8
+#EXTINF:-1, TLC
+http://91.237.170.202:11000/play/20195
+#EXTINF:-1, Nick Jr
+http://80.82.18.214:4000/play/a04o/index.m3u8
+#EXTINF:-1, Discovery Channel
+http://91.237.170.202:11000/play/11351
 #EXTINF:-1, Berente TV
 https://stream.streaming4u.hu:443/BerenteTV/index.m3u8
+#EXTINF:-1, Animal Planet
+http://91.237.170.202:11000/play/1354
+#EXTINF:-1, Filmbox Family
+http://80.82.18.214:4000/play/a016/index.m3u8
 #EXTINF:-1, Classics TV
 https://s03.diazol.hu:7152/hls/live.m3u8
+#EXTINF:-1, Discovery Science
+http://91.237.170.202:11000/play/11352
 #EXTINF:-1, Bicskei Városi Televízió
 https://cloudfront63.lexanetwork.com:1344/relay02/livestream003.sdp/chunks.m3u8
+#EXTINF:-1, Food Network
+http://91.237.170.202:11000/play/20197
 #EXTINF:-1, Wsat
 https://s14.ssl-stream.com:3922/stream/play.m3u8
 #EXTINF:-1, Weekend TV
