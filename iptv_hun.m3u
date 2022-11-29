@@ -107,8 +107,6 @@ https://redirect.onlinestream.live/mkredir.m3u8?video=mtv5live&ext=.m3u8
 https://redirect.onlinestream.live/mkredir.m3u8?video=dunalive&ext=.m3u8
 #EXTINF:-1, Duna World / M4 Sport+
 https://redirect.onlinestream.live/mkredir.m3u8?video=dunaworldlive&ext=.m3u8
-#EXTINF:-1, MTVA időszakos közvetítések
-://
 #EXTINF:-1, Balaton TV
 https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 #EXTINF:-1, Apostol TV
