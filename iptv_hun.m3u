@@ -1,4 +1,4 @@
-#EXTM3U update=2022-11-28 01:00
+#EXTM3U update=2022-11-29 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1540/HDE003.webm
 #EXTINF:-1, Kanizsa TV
@@ -60,7 +60,7 @@ http://stream.battanet.hu:8080/hls/livestream1/index.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv/0IjMxATMxgjM.m3u8
+https://player.mediaklikk.org:443/hirtv/0IjMxATMxkjM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -71,8 +71,6 @@ https://cloudfront63.lexanetwork.com:1344/livecaster79341q3/liverelay001.sdp/pla
 https://cloudfront63.lexanetwork.com:1344/relay02/livestream002.sdp/playlist.m3u8
 #EXTINF:-1, EWTN
 https://stream.y5.hu:443/stream/stream_bonum/stream.m3u8
-#EXTINF:-1, Light Channel TV
-http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8
 #EXTINF:-1, Hatoscsatorna
 https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
 #EXTINF:-1, Tatai TV
@@ -112,7 +110,7 @@ https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 #EXTINF:-1, Apostol TV
 http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1, M3
-https://player.mediaklikk.org:443/m3/0IjMxATMxgjM.m3u8
+https://player.mediaklikk.org:443/m3/0IjMxATMxkjM.m3u8
 #EXTINF:-1, National Geographic
 http://152.66.115.226:33390/bysid/206
 #EXTINF:-1, Sopron TV
@@ -133,6 +131,8 @@ http://213.81.201.113:8082/bysid/31219
 http://213.81.201.113:8082/bysid/31214
 #EXTINF:-1, Muzsika TV
 http://213.81.201.113:8082/bysid/31215
+#EXTINF:-1, Sláger TV
+http://royal-cdn.eu:8080/zZ1mUgRw/cQyXhxw/31048
 #EXTINF:-1, Izaura TV
 http://213.81.201.113:8082/bysid/31223
 #EXTINF:-1, Főnix TV
@@ -185,24 +185,18 @@ https://5cd03f21c7193.streamlock.net:443/darutv/darutvlive/playlist.m3u8
 https://stream.moranettv.hu:443/live/index.m3u8
 #EXTINF:-1, Kiskőrös TV
 https://5cd03f21c7193.streamlock.net:443/kiskorostv/korostvlive/playlist.m3u8
-#EXTINF:-1, Nicktoons
-http://80.82.18.214:4000/play/a04t/index.m3u8
 #EXTINF:-1, Régió TV
 http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 #EXTINF:-1, Völgyhíd TV
 https://5cd03f21c7193.streamlock.net:443/volgyhidtv/mediakft/playlist.m3u8
 #EXTINF:-1, TLC
 http://91.237.170.202:11000/play/20195
-#EXTINF:-1, Nick Jr
-http://80.82.18.214:4000/play/a04o/index.m3u8
 #EXTINF:-1, Discovery Channel
 http://91.237.170.202:11000/play/11351
 #EXTINF:-1, Berente TV
 https://stream.streaming4u.hu:443/BerenteTV/index.m3u8
 #EXTINF:-1, Animal Planet
 http://91.237.170.202:11000/play/1354
-#EXTINF:-1, Filmbox Family
-http://80.82.18.214:4000/play/a016/index.m3u8
 #EXTINF:-1, Classics TV
 https://s03.diazol.hu:7152/hls/live.m3u8
 #EXTINF:-1, Discovery Science
