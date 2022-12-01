@@ -1,10 +1,10 @@
-#EXTM3U update=2022-11-30 01:00
+#EXTM3U update=2022-12-01 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1540/HDE003.webm
-#EXTINF:-1, Lóverseny közvetítés
-https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1, Kanizsa TV
 https://91.82.85.44:1540/HDE024.webm
+#EXTINF:-1, Lóverseny közvetítés
+https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -60,7 +60,7 @@ http://stream.battanet.hu:8080/hls/livestream1/index.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/0IjMxATMxAzM.m3u8
+https://player.mediaklikk.org:443/hirtv/00gMyETMxETM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -116,7 +116,7 @@ https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 #EXTINF:-1, Apostol TV
 http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1, M3
-https://player.mediaklikk.org:443/m3/0IjMxATMxAzM.m3u8
+https://player.mediaklikk.org:443/m3/00gMyETMxETM.m3u8
 #EXTINF:-1, National Geographic
 http://152.66.115.226:33390/bysid/206
 #EXTINF:-1, Sopron TV
@@ -127,8 +127,6 @@ http://152.66.115.226:33390/bysid/203
 http://213.81.201.113:8082/bysid/31212
 #EXTINF:-1, TV2
 http://152.66.115.226:33390/bysid/202
-#EXTINF:-1, ESTV
-https://cloudfront63.lexanetwork.com:1344/freerelay/vactv.sdp/playlist.m3u8
 #EXTINF:-1, RTL Három
 http://213.81.201.113:8082/bysid/31213
 #EXTINF:-1, RTL Gold
