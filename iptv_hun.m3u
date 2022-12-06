@@ -1,4 +1,4 @@
-#EXTM3U update=2022-12-05 01:00
+#EXTM3U update=2022-12-06 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1540/HDE003.webm
 #EXTINF:-1, Kanizsa TV
@@ -7,10 +7,12 @@ https://91.82.85.44:1540/HDE024.webm
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
+#EXTINF:-1, Izaura TV
+https://cdn.mediaklikk.org:443/izaura/00gMyETMxEjN
 #EXTINF:-1, TV2
-https://cdn.mediaklikk.org:443/tv2/00gMyETMxETN
+https://cdn.mediaklikk.org:443/tv2/00gMyETMxEjN
 #EXTINF:-1, RTL
-https://cdn.mediaklikk.org:443/rtl/00gMyETMxETN
+https://cdn.mediaklikk.org:443/rtl/00gMyETMxEjN
 #EXTINF:-1, Lóverseny közvetítés
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1, Móri Városi TV
@@ -66,7 +68,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv/00gMyETMxETN.m3u8
+https://player.mediaklikk.org:443/hirtv/00gMyETMxEjN.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -77,8 +79,6 @@ https://cloudfront63.lexanetwork.com:1344/livecaster79341q3/liverelay001.sdp/pla
 https://cloudfront63.lexanetwork.com:1344/relay02/livestream002.sdp/playlist.m3u8
 #EXTINF:-1, EWTN
 https://stream.y5.hu:443/stream/stream_bonum/stream.m3u8
-#EXTINF:-1, Light Channel TV
-http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8
 #EXTINF:-1, Hatoscsatorna
 https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
 #EXTINF:-1, Tatai TV
@@ -91,6 +91,8 @@ https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u
 http://makomedia.mikrohalo.hu:80/hls/makotv.m3u8
 #EXTINF:-1, 7.tv
 https://stream.y5.hu:443/stream/stream_bekescsaba/stream.m3u8
+#EXTINF:-1, Vásárhelyi Televízió
+https://stream.vasarhelyitelevizio.hu:443/stream/stream.m3u8
 #EXTINF:-1, TV Szentendre
 https://stream.streaming4u.hu:443/TVSzentendre/index.m3u8
 #EXTINF:-1, TelePaks
@@ -125,6 +127,8 @@ http://152.66.115.226:33390/bysid/206
 https://redirect.onlinestream.live/sopronmedia.m3u8
 #EXTINF:-1, RTL Kettő
 http://213.81.201.113:8082/bysid/31212
+#EXTINF:-1, ESTV
+https://cloudfront63.lexanetwork.com:1344/freerelay/vactv.sdp/playlist.m3u8
 #EXTINF:-1, RTL Három
 http://213.81.201.113:8082/bysid/31213
 #EXTINF:-1, RTL Gold
@@ -135,8 +139,6 @@ http://213.81.201.113:8082/bysid/31214
 http://213.81.201.113:8082/bysid/31215
 #EXTINF:-1, Sláger TV
 http://royal-cdn.eu:8080/zZ1mUgRw/cQyXhxw/31048
-#EXTINF:-1, Izaura TV
-http://213.81.201.113:8082/bysid/31223
 #EXTINF:-1, Főnix TV
 https://stream.streaming4u.hu:443/FonixTV/index.m3u8
 #EXTINF:-1, Óbuda TV
