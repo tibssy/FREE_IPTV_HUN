@@ -1,28 +1,28 @@
-#EXTM3U update=2022-12-12 01:00
+#EXTM3U update=2022-12-13 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1540/HDE003.webm
-#EXTINF:-1, Fehérvár TV
-https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
 #EXTINF:-1, Kanizsa TV
 https://91.82.85.44:1540/HDE024.webm
+#EXTINF:-1, Lóverseny közvetítés
+https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
 #EXTINF:-1, Izaura TV
-https://cdn.mediaklikk.org:443/izaura/0IjMxETMxITM
+https://cdn.mediaklikk.org:443/izaura/0IjMxETMxMTM
 #EXTINF:-1, TV2
-https://cdn.mediaklikk.org:443/tv2/0IjMxETMxITM
+https://cdn.mediaklikk.org:443/tv2/0IjMxETMxMTM
 #EXTINF:-1, RTL
-https://cdn.mediaklikk.org:443/rtl/0IjMxETMxITM
-#EXTINF:-1, Lóverseny közvetítés
-https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
+https://cdn.mediaklikk.org:443/rtl/0IjMxETMxMTM
 #EXTINF:-1, Móri Városi TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8
 #EXTINF:-1, Komáromi Televízió
 https://cloudfront63.lexanetwork.com:1540/HDE017.webm
 #EXTINF:-1, Zugló TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/zuglotv.sdp/playlist.m3u8
+#EXTINF:-1, Fehérvár TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
 #EXTINF:-1, TV Keszthely
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
 #EXTINF:-1, TV Eger
@@ -68,7 +68,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv/0IjMxETMxITM.m3u8
+https://player.mediaklikk.org:443/hirtv/0IjMxETMxMTM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -83,8 +83,6 @@ https://stream.y5.hu:443/stream/stream_bonum/stream.m3u8
 http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8
 #EXTINF:-1, Hatoscsatorna
 https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
-#EXTINF:-1, Kölcsey Televízió
-https://stream.tamanet.hu:443/stream.m3u8
 #EXTINF:-1, Tatai TV
 https://cloudfront63.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 #EXTINF:-1, Líceum TV
