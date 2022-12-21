@@ -1,4 +1,4 @@
-#EXTM3U update=2022-12-20 01:00
+#EXTM3U update=2022-12-21 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1540/HDE003.webm
 #EXTINF:-1, Kanizsa TV
@@ -8,11 +8,11 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
 #EXTINF:-1, Izaura TV
-https://cdn.mediaklikk.org:443/izaura/0IjMxETMxAjM
+https://cdn.mediaklikk.org:443/izaura/0IjMxETMxEjM
 #EXTINF:-1, TV2
-https://cdn.mediaklikk.org:443/tv2/0IjMxETMxAjM
+https://cdn.mediaklikk.org:443/tv2/0IjMxETMxEjM
 #EXTINF:-1, RTL
-https://cdn.mediaklikk.org:443/rtl/0IjMxETMxAjM
+https://cdn.mediaklikk.org:443/rtl/0IjMxETMxEjM
 #EXTINF:-1, Lóverseny közvetítés
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1, Móri Városi TV
@@ -31,8 +31,6 @@ http://stream.tveger.hu:8010/hls/live.m3u8
 https://citytv.hu:443/media/live/stream.m3u8
 #EXTINF:-1, Rákosmente TV
 http://rakosmentetv.hu:8080/hls/rmtv.m3u8
-#EXTINF:-1, Budapest Európa Televízió
-https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:-1, Gyöngyösi TV
 https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
 #EXTINF:-1, Putnok Városi Televízió
@@ -68,7 +66,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/0IjMxETMxAjM.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/0IjMxETMxEjM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -119,8 +117,6 @@ https://redirect.onlinestream.live/mkredir.m3u8?video=dunaworldlive&ext=.m3u8
 ://
 #EXTINF:-1, Balaton TV
 https://stream.iptvservice.eu:443/hls/balatontv.m3u8
-#EXTINF:-1, Apostol TV
-http://live.apostoltv.hu:80/online/smil:gazdagret.smil/playlist.m3u8
 #EXTINF:-1, M3
 s://
 #EXTINF:-1, National Geographic
