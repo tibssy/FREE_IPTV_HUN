@@ -1,4 +1,4 @@
-#EXTM3U update=2022-12-22 01:00
+#EXTM3U update=2022-12-23 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1540/HDE003.webm
 #EXTINF:-1, Kanizsa TV
@@ -10,11 +10,11 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
 #EXTINF:-1, Izaura TV
-https://cdn.mediaklikk.org:443/izaura/0IjMxETMxIjM
+https://cdn.mediaklikk.org:443/izaura/0IjMxETMxMjM
 #EXTINF:-1, TV2
-https://cdn.mediaklikk.org:443/tv2/0IjMxETMxIjM
+https://cdn.mediaklikk.org:443/tv2/0IjMxETMxMjM
 #EXTINF:-1, RTL
-https://cdn.mediaklikk.org:443/rtl/0IjMxETMxIjM
+https://cdn.mediaklikk.org:443/rtl/0IjMxETMxMjM
 #EXTINF:-1, Móri Városi TV
 https://cloudfront44.lexanetwork.com:1344/freerelay/morvtv.sdp/playlist.m3u8
 #EXTINF:-1, Komáromi Televízió
@@ -31,6 +31,8 @@ http://stream.tveger.hu:8010/hls/live.m3u8
 https://citytv.hu:443/media/live/stream.m3u8
 #EXTINF:-1, Rákosmente TV
 http://rakosmentetv.hu:8080/hls/rmtv.m3u8
+#EXTINF:-1, Budapest Európa Televízió
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:-1, Gyöngyösi TV
 https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
 #EXTINF:-1, Putnok Városi Televízió
@@ -45,16 +47,12 @@ https://www.tiszatv.hu:443/onlinetv/tiszatv_1.m3u8
 https://eurobioinvest.hu:444/live/ktv.m3u8
 #EXTINF:-1, Miskolc TV
 https://video.mhzrt.hu:443/live/mitv/playlist.m3u8
-#EXTINF:-1, Bajai TV
-https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 #EXTINF:-1, Hegyvidék TV
 https://tv.hegyvidek.hu:443/hvtv/hvstream.m3u8
 #EXTINF:-1, Orosházi Városi Televízió
 https://5cd03f21c7193.streamlock.net:443/ovtv/ocafelive/playlist.m3u8
 #EXTINF:-1, Rábaközi Televízió
 http://79.120.178.90:1935/csornatv/tvlive/playlist.m3u8
-#EXTINF:-1, Karcag TV
-https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 #EXTINF:-1, Pannon RTV
 https://stream2.nmih.hu:4102/live.m3u8
 #EXTINF:-1, BTKT TV
@@ -66,7 +64,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/0IjMxETMxIjM.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/0IjMxETMxMjM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -151,6 +149,8 @@ http://79.120.178.90:1935/rtve/rtvelive/playlist.m3u8
 rtmp://213.174.8.15:1935/live/danio
 #EXTINF:-1, Szécsény TV
 http://iptv.eurocable.co.hu:80/EC-SZECSENYTVHD/index.m3u8
+#EXTINF:-1, Alföld TV
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 #EXTINF:-1, Komlós TV
 https://stream.streaming4u.hu:443/KomlosTV/index.m3u8
 #EXTINF:-1, Pannon Televízió
