@@ -1,20 +1,20 @@
-#EXTM3U update=2023-01-06 01:00
+#EXTM3U update=2023-01-07 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1540/HDE003.webm
 #EXTINF:-1, Kanizsa TV
 https://91.82.85.44:1540/HDE024.webm
 #EXTINF:-1, Max4
-https://cdn.mediaklikk.org:443/max4/zITMwEjN
+https://cdn.mediaklikk.org:443/max4/zITMwEzN
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
 #EXTINF:-1, Izaura TV
-https://cdn.mediaklikk.org:443/izaura/zITMwEjN
+https://cdn.mediaklikk.org:443/izaura/zITMwEzN
 #EXTINF:-1, TV2
-https://cdn.mediaklikk.org:443/tv2/zITMwEjN
+https://cdn.mediaklikk.org:443/tv2/zITMwEzN
 #EXTINF:-1, RTL
-https://cdn.mediaklikk.org:443/rtl/zITMwEjN
+https://cdn.mediaklikk.org:443/rtl/zITMwEzN
 #EXTINF:-1, Lóverseny közvetítés
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1, Móri Városi TV
@@ -49,6 +49,8 @@ https://www.tiszatv.hu:443/onlinetv/tiszatv_1.m3u8
 https://eurobioinvest.hu:444/live/ktv.m3u8
 #EXTINF:-1, Miskolc TV
 https://video.mhzrt.hu:443/live/mitv/playlist.m3u8
+#EXTINF:-1, Bajai TV
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
 #EXTINF:-1, Hegyvidék TV
 https://tv.hegyvidek.hu:443/hvtv/hvstream.m3u8
 #EXTINF:-1, Orosházi Városi Televízió
@@ -68,7 +70,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/zITMwEjN.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/zITMwEzN.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -83,6 +85,8 @@ https://stream.y5.hu:443/stream/stream_bonum/stream.m3u8
 http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8
 #EXTINF:-1, Hatoscsatorna
 https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
+#EXTINF:-1, Kölcsey Televízió
+https://stream.tamanet.hu:443/stream.m3u8
 #EXTINF:-1, Tatai TV
 https://cloudfront63.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 #EXTINF:-1, Líceum TV
