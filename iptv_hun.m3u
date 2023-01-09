@@ -1,10 +1,10 @@
-#EXTM3U update=2023-01-08 01:00
-#EXTINF:-1, Debrecen Televízió
-https://cloudfront44.lexanetwork.com:1540/HDE003.webm
+#EXTM3U update=2023-01-09 01:00
 #EXTINF:-1, Kanizsa TV
 https://91.82.85.44:1540/HDE024.webm
+#EXTINF:-1, Debrecen Televízió
+https://cloudfront44.lexanetwork.com:1540/HDE003.webm
 #EXTINF:-1, Max4
-https://cdn.mediaklikk.org:443/max4/zITMwEDO
+https://cdn.mediaklikk.org:443/max4/zITMwETO
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -70,7 +70,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/zITMwEDO.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/zITMwETO.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -223,8 +223,6 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1174&ext=.m3u8
 https://redirect.onlinestream.live/swredir.m3u8?id=1163&ext=.m3u8
 #EXTINF:-1, Prime
 https://redirect.onlinestream.live/swredir.m3u8?id=1172&ext=.m3u8
-#EXTINF:-1, Nicktoons
-http://78.80.46.167:8001/1:0:1:3B74:C8D:3:EB0000:0:0:0
 #EXTINF:-1, TV2 Kids
 https://redirect.onlinestream.live/swredir.m3u8?id=1177&ext=.m3u8
 #EXTINF:-1, Sport 1
@@ -247,6 +245,8 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1151&ext=.m3u8
 https://redirect.onlinestream.live/swredir.m3u8?id=1160&ext=.m3u8
 #EXTINF:-1, Nickelodeon
 https://redirect.onlinestream.live/swredir.m3u8?id=1264&ext=.m3u8
+#EXTINF:-1, Nick Jr
+https://redirect.onlinestream.live/swredir.m3u8?id=1265&ext=.m3u8
 #EXTINF:-1, Disney Channel
 https://redirect.onlinestream.live/swredir.m3u8?id=1164&ext=.m3u8
 #EXTINF:-1, Discovery Channel
@@ -269,6 +269,8 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1165&ext=.m3u8
 https://redirect.onlinestream.live/swredir.m3u8?id=1148&ext=.m3u8
 #EXTINF:-1, Arena4
 https://redirect.onlinestream.live/swredir.m3u8?id=1144&ext=.m3u8
+#EXTINF:-1, TV2 Séf
+https://redirect.onlinestream.live/swredir.m3u8?id=1178&ext=.m3u8
 #EXTINF:-1, CBS Reality
 https://redirect.onlinestream.live/swredir.m3u8?id=1115&ext=.m3u8
 #EXTINF:-1, Viasat Explore
@@ -307,3 +309,7 @@ http://5.75.133.250:8000/play/test1
 https://redirect.onlinestream.live/swredir.m3u8?id=1146&ext=.m3u8
 #EXTINF:-1, Soltvadkerti Televízió
 http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
+#EXTINF:-1, Viasat Film
+https://redirect.onlinestream.live/swredir.m3u8?id=1166&ext=.m3u8
+#EXTINF:-1, Viasat 2
+https://redirect.onlinestream.live/swredir.m3u8?id=1167&ext=.m3u8
