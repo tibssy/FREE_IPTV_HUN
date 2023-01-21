@@ -1,10 +1,10 @@
-#EXTM3U update=2023-01-20 01:00
+#EXTM3U update=2023-01-21 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1540/HDE003.webm
 #EXTINF:-1, Kanizsa TV
 https://91.82.85.44:1540/HDE024.webm
 #EXTINF:-1, Max4
-https://cdn.mediaklikk.org:443/max4/00wMyEDMxAjM
+https://cdn.mediaklikk.org:443/max4/00wMyEDMxEjM
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -37,8 +37,6 @@ http://rakosmentetv.hu:8080/hls/rmtv.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:-1, Gyöngyösi TV
 https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
-#EXTINF:-1, Putnok Városi Televízió
-http://78.47.126.198:5080/LiveApp/streams/902003217052313577741820.m3u8
 #EXTINF:-1, Zalaegerszegi Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 #EXTINF:-1, Fix TV
@@ -57,20 +55,16 @@ https://tv.hegyvidek.hu:443/hvtv/hvstream.m3u8
 https://5cd03f21c7193.streamlock.net:443/ovtv/ocafelive/playlist.m3u8
 #EXTINF:-1, Rábaközi Televízió
 http://79.120.178.90:1935/csornatv/tvlive/playlist.m3u8
-#EXTINF:-1, Karcag TV
-https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 #EXTINF:-1, Pannon RTV
 https://stream2.nmih.hu:4102/live.m3u8
 #EXTINF:-1, BTKT TV
 https://5cd03f21c7193.streamlock.net:443/btkt/udp.stream_360p/playlist.m3u8
 #EXTINF:-1, Halom TV
 http://stream.battanet.hu:8080/hls/livestream1/index.m3u8
-#EXTINF:-1, Ózdi Városi Televízió
-https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/00wMyEDMxAjM.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/00wMyEDMxEjM.m3u8
 #EXTINF:-1, Szolnok TV
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1, EWTN
@@ -85,8 +79,6 @@ https://stream.tamanet.hu:443/stream.m3u8
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1, Kapos TV
 https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
-#EXTINF:-1, Bábolna TV
-https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
 #EXTINF:-1, Makó TV
 http://makomedia.mikrohalo.hu:80/hls/makotv.m3u8
 #EXTINF:-1, 7.tv
@@ -189,8 +181,6 @@ http://152.66.115.226:33390/bysid/208
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:-1, Spektrum Home
 https://redirect.onlinestream.live/swredir.m3u8?id=1152&ext=.m3u8
-#EXTINF:-1, DragonHall+ TV
-https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 #EXTINF:-1, T1 Televízió
 http://91.82.85.41:1935/liverelay/filmtvlive.sdp/playlist.m3u8
 #EXTINF:-1, Gólya TV
