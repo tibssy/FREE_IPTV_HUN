@@ -1,10 +1,10 @@
-#EXTM3U update=2023-01-24 01:00
+#EXTM3U update=2023-01-25 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1540/HDE003.webm
 #EXTINF:-1, Kanizsa TV
 https://91.82.85.44:1540/HDE024.webm
 #EXTINF:-1, Max4
-https://cdn.mediaklikk.org:443/max4/00wMyEDMxQjM
+https://cdn.mediaklikk.org:443/max4/00wMyEDMxUjM
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -61,12 +61,14 @@ http://79.120.178.90:1935/csornatv/tvlive/playlist.m3u8
 https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 #EXTINF:-1, Pannon RTV
 https://stream2.nmih.hu:4102/live.m3u8
+#EXTINF:-1, BTKT TV
+https://5cd03f21c7193.streamlock.net:443/btkt/udp.stream_360p/playlist.m3u8
 #EXTINF:-1, Halom TV
 http://stream.battanet.hu:8080/hls/livestream1/index.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/00wMyEDMxQjM.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/00wMyEDMxUjM.m3u8
 #EXTINF:-1, Szolnok TV
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1, EWTN
@@ -81,6 +83,8 @@ https://stream.tamanet.hu:443/stream.m3u8
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1, Kapos TV
 https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
+#EXTINF:-1, Bábolna TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
 #EXTINF:-1, Makó TV
 http://makomedia.mikrohalo.hu:80/hls/makotv.m3u8
 #EXTINF:-1, 7.tv
@@ -91,8 +95,6 @@ https://5cd03f21c7193.streamlock.net:443/tv13/tvlive13/playlist.m3u8
 https://stream.vasarhelyitelevizio.hu:443/stream/stream.m3u8
 #EXTINF:-1, TV Szentendre
 https://stream.streaming4u.hu:443/TVSzentendre/index.m3u8
-#EXTINF:-1, TelePaks
-https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
 #EXTINF:-1, VTV Füzesabony
 https://stream.nmih.hu:7962/live.m3u8
 #EXTINF:-1, TV Budakalász
@@ -284,7 +286,7 @@ https://stream.streaming4u.hu/WeekendTV/index.m3u8
 #EXTINF:-1, Webcentrum Online
 https://s14.ssl-stream.com:3922/stream/play.m3u8
 #EXTINF:-1, Eurosport 1
-http://5.75.133.250:8000/play/test1
+https://redirect.onlinestream.live/swredir.m3u8?id=1145&ext=.m3u8
 #EXTINF:-1, Eurosport 2
 https://redirect.onlinestream.live/swredir.m3u8?id=1146&ext=.m3u8
 #EXTINF:-1, Soltvadkerti Televízió
