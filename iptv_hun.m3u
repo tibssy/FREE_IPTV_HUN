@@ -1,10 +1,10 @@
-#EXTM3U update=2023-01-27 01:00
+#EXTM3U update=2023-01-28 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1540/HDE003.webm
 #EXTINF:-1, Kanizsa TV
 https://91.82.85.44:1540/HDE024.webm
 #EXTINF:-1, Max4
-https://cdn.mediaklikk.org:443/max4/00wMyEDMxcjM
+https://cdn.mediaklikk.org:443/max4/00wMyEDMxgjM
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -65,18 +65,16 @@ https://stream2.nmih.hu:4102/live.m3u8
 https://5cd03f21c7193.streamlock.net:443/btkt/udp.stream_360p/playlist.m3u8
 #EXTINF:-1, Halom TV
 http://stream.battanet.hu:8080/hls/livestream1/index.m3u8
+#EXTINF:-1, Ózdi Városi Televízió
+https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/00wMyEDMxcjM.m3u8
-#EXTINF:-1, Williams TV
-http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/00wMyEDMxgjM.m3u8
 #EXTINF:-1, Szolnok TV
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1, EWTN
 https://stream.y5.hu:443/stream/stream_bonum/stream.m3u8
-#EXTINF:-1, Light Channel TV
-http://streamer1.streamhost.org:1935/salive/hungarian/playlist.m3u8
 #EXTINF:-1, Hatoscsatorna
 https://hatoscsatorna.hu:8082/Hatoscsatorna/livestream/playlist.m3u8
 #EXTINF:-1, Kölcsey Televízió
@@ -95,6 +93,8 @@ https://5cd03f21c7193.streamlock.net:443/tv13/tvlive13/playlist.m3u8
 https://stream.vasarhelyitelevizio.hu:443/stream/stream.m3u8
 #EXTINF:-1, TV Szentendre
 https://stream.streaming4u.hu:443/TVSzentendre/index.m3u8
+#EXTINF:-1, TelePaks
+https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
 #EXTINF:-1, VTV Füzesabony
 https://stream.nmih.hu:7962/live.m3u8
 #EXTINF:-1, TV Budakalász
