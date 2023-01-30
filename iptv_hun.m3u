@@ -1,10 +1,10 @@
-#EXTM3U update=2023-01-29 01:00
+#EXTM3U update=2023-01-30 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1540/HDE003.webm
 #EXTINF:-1, Kanizsa TV
 https://91.82.85.44:1540/HDE024.webm
 #EXTINF:-1, Max4
-https://cdn.mediaklikk.org:443/max4/00wMyEDMxkjM
+https://cdn.mediaklikk.org:443/max4/00wMyEDMxAzM
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -61,8 +61,6 @@ http://79.120.178.90:1935/csornatv/tvlive/playlist.m3u8
 https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 #EXTINF:-1, Pannon RTV
 https://stream2.nmih.hu:4102/live.m3u8
-#EXTINF:-1, BTKT TV
-https://5cd03f21c7193.streamlock.net:443/btkt/udp.stream_360p/playlist.m3u8
 #EXTINF:-1, Halom TV
 http://stream.battanet.hu:8080/hls/livestream1/index.m3u8
 #EXTINF:-1, Ózdi Városi Televízió
@@ -70,7 +68,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/00wMyEDMxkjM.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/00wMyEDMxAzM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -105,8 +103,6 @@ https://5cd03f21c7193.streamlock.net:443/tv13/tvlive13/playlist.m3u8
 https://stream.vasarhelyitelevizio.hu:443/stream/stream.m3u8
 #EXTINF:-1, TV Szentendre
 https://stream.streaming4u.hu:443/TVSzentendre/index.m3u8
-#EXTINF:-1, TelePaks
-https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
 #EXTINF:-1, VTV Füzesabony
 https://stream.nmih.hu:7962/live.m3u8
 #EXTINF:-1, TV Budakalász
@@ -127,8 +123,6 @@ https://redirect.onlinestream.live/mkredir.m3u8?video=dunaworldlive&ext=.m3u8
 ://
 #EXTINF:-1, Viasat 3
 https://redirect.onlinestream.live/swredir.m3u8?id=1142&ext=.m3u8
-#EXTINF:-1, Balaton TV
-https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 #EXTINF:-1, Apostol TV
 https://live.apostoltv.hu:443/live/playlist.m3u8
 #EXTINF:-1, M3
@@ -217,6 +211,8 @@ https://cloudfront63.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u
 https://redirect.onlinestream.live/swredir.m3u8?id=1113&ext=.m3u8
 #EXTINF:-1, Daru TV
 https://5cd03f21c7193.streamlock.net:443/darutv/darutvlive/playlist.m3u8
+#EXTINF:-1, Móra-Net TV
+https://stream.moranettv.hu:443/live/index.m3u8
 #EXTINF:-1, Kiskőrös TV
 https://5cd03f21c7193.streamlock.net:443/kiskorostv/korostvlive/playlist.m3u8
 #EXTINF:-1, Jocky TV
@@ -229,6 +225,8 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1172&ext=.m3u8
 https://redirect.onlinestream.live/swredir.m3u8?id=1177&ext=.m3u8
 #EXTINF:-1, Sport 1
 https://redirect.onlinestream.live/swredir.m3u8?id=1117&ext=.m3u8
+#EXTINF:-1, Sport 2
+https://redirect.onlinestream.live/swredir.m3u8?id=1290&ext=.m3u8
 #EXTINF:-1, Moziverzum
 https://redirect.onlinestream.live/swredir.m3u8?id=1175&ext=.m3u8
 #EXTINF:-1, Super TV2
@@ -243,6 +241,8 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1154&ext=.m3u8
 https://redirect.onlinestream.live/swredir.m3u8?id=1112&ext=.m3u8
 #EXTINF:-1, Spektrum
 https://redirect.onlinestream.live/swredir.m3u8?id=1151&ext=.m3u8
+#EXTINF:-1, Comedy Central
+https://redirect.onlinestream.live/swredir.m3u8?id=1298&ext=.m3u8
 #EXTINF:-1, TLC
 https://redirect.onlinestream.live/swredir.m3u8?id=1160&ext=.m3u8
 #EXTINF:-1, Nickelodeon
@@ -271,6 +271,8 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1148&ext=.m3u8
 https://redirect.onlinestream.live/swredir.m3u8?id=1144&ext=.m3u8
 #EXTINF:-1, TV2 Séf
 https://redirect.onlinestream.live/swredir.m3u8?id=1178&ext=.m3u8
+#EXTINF:-1, AXN Black
+https://redirect.onlinestream.live/swredir.m3u8?id=1187&ext=.m3u8
 #EXTINF:-1, CBS Reality
 https://redirect.onlinestream.live/swredir.m3u8?id=1115&ext=.m3u8
 #EXTINF:-1, Viasat Explore
@@ -289,6 +291,8 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1156&ext=.m3u8
 https://redirect.onlinestream.live/swredir.m3u8?id=1158&ext=.m3u8
 #EXTINF:-1, Galaxy 4
 https://redirect.onlinestream.live/swredir.m3u8?id=1109&ext=.m3u8
+#EXTINF:-1, Comedy Central Family
+https://redirect.onlinestream.live/swredir.m3u8?id=1297&ext=.m3u8
 #EXTINF:-1, DTX
 https://redirect.onlinestream.live/swredir.m3u8?id=1157&ext=.m3u8
 #EXTINF:-1, Travel
@@ -299,6 +303,8 @@ https://redirect.onlinestream.live/swredir.m3u8?id=1159&ext=.m3u8
 https://s14.ssl-stream.com:3922/stream/play.m3u8
 #EXTINF:-1, Weekend TV
 https://stream.streaming4u.hu/WeekendTV/index.m3u8
+#EXTINF:-1, Paramount Network
+https://redirect.onlinestream.live/swredir.m3u8?id=1296&ext=.m3u8
 #EXTINF:-1, Webcentrum Online
 https://s14.ssl-stream.com:3922/stream/play.m3u8
 #EXTINF:-1, Eurosport 1
