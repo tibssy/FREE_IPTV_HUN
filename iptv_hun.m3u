@@ -1,20 +1,20 @@
-#EXTM3U update=2023-03-27 01:00
+#EXTM3U update=2023-03-28 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
 #EXTINF:-1, Kanizsa TV
 https://91.82.85.44:1540/HDE024.webm
 #EXTINF:-1, Max4
-https://cdn.mediaklikk.org:443/max4/00wMyEjMxcjM
+https://cdn.mediaklikk.org:443/max4/00wMyEjMxgjM
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
 #EXTINF:-1, Izaura TV
-https://cdn.mediaklikk.org:443/izaura/00wMyEjMxcjM
+https://cdn.mediaklikk.org:443/izaura/00wMyEjMxgjM
 #EXTINF:-1, TV2
-https://cdn.mediaklikk.org:443/tv2/00wMyEjMxcjM
+https://cdn.mediaklikk.org:443/tv2/00wMyEjMxgjM
 #EXTINF:-1, RTL
-https://cdn.mediaklikk.org:443/rtl/00wMyEjMxcjM
+https://cdn.mediaklikk.org:443/rtl/00wMyEjMxgjM
 #EXTINF:-1, Lóverseny közvetítés
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1, Móri Városi TV
@@ -29,8 +29,6 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
 #EXTINF:-1, TV Eger
 http://stream.tveger.hu:8010/hls/live.m3u8
-#EXTINF:-1, City TV
-https://citytv.hu:443/media/live/stream.m3u8
 #EXTINF:-1, Rákosmente TV
 http://rakosmentetv.hu:8080/hls/rmtv.m3u8
 #EXTINF:-1, Budapest Európa Televízió
@@ -68,7 +66,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/00wMyEjMxcjM.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/00wMyEjMxgjM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -87,8 +85,6 @@ https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1, Kapos TV
 https://cloudfront63.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
-#EXTINF:-1, Bábolna TV
-https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
 #EXTINF:-1, Makó TV
 http://makomedia.mikrohalo.hu:80/hls/makotv.m3u8
 #EXTINF:-1, 7.tv
@@ -97,70 +93,72 @@ https://stream.y5.hu:443/stream/stream_bekescsaba/stream.m3u8
 https://stream.vasarhelyitelevizio.hu:443/stream/stream.m3u8
 #EXTINF:-1, TV Szentendre
 https://stream.streaming4u.hu:443/TVSzentendre/index.m3u8
+#EXTINF:-1, TelePaks
+https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
 #EXTINF:-1, VTV Füzesabony
 https://stream.nmih.hu:7962/live.m3u8
 #EXTINF:-1, TV Budakalász
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, M1
-https://redirect.onlinestream.live/mkredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&video=mtv1live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&video=mtv1live&ext=.m3u8
 #EXTINF:-1, M2 / Petőfi TV
-https://redirect.onlinestream.live/mkredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&video=mtv2live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&video=mtv2live&ext=.m3u8
 #EXTINF:-1, M4 Sport
-https://redirect.onlinestream.live/mkredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&video=mtv4live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&video=mtv4live&ext=.m3u8
 #EXTINF:-1, M5
-https://redirect.onlinestream.live/mkredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&video=mtv5live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&video=mtv5live&ext=.m3u8
 #EXTINF:-1, Duna
-https://redirect.onlinestream.live/mkredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&video=dunalive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&video=dunalive&ext=.m3u8
 #EXTINF:-1, Duna World / M4 Sport+
-https://redirect.onlinestream.live/mkredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&video=dunaworldlive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&video=dunaworldlive&ext=.m3u8
 #EXTINF:-1, Viasat 3
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1142&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1142&ext=.m3u8
 #EXTINF:-1, Balaton TV
 https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 #EXTINF:-1, Apostol TV
 https://live.apostoltv.hu:443/live/playlist.m3u8
 #EXTINF:-1, National Geographic
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1179&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1179&ext=.m3u8
 #EXTINF:-1, National Geographic Wild
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=895&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=895&ext=.m3u8
 #EXTINF:-1, Sopron TV
 https://redirect.onlinestream.live/sopronmedia.m3u8
 #EXTINF:-1, RTL Kettő
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=883&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=883&ext=.m3u8
 #EXTINF:-1, ESTV
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8
 #EXTINF:-1, Cool TV
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=870&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=870&ext=.m3u8
 #EXTINF:-1, RTL Három
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=880&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=880&ext=.m3u8
 #EXTINF:-1, RTL Gold
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1131&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1131&ext=.m3u8
 #EXTINF:-1, Sorozat+
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=876&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=876&ext=.m3u8
 #EXTINF:-1, Film+
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1138&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1138&ext=.m3u8
 #EXTINF:-1, Muzsika TV
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=874&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=874&ext=.m3u8
 #EXTINF:-1, Mozi+
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1171&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1171&ext=.m3u8
 #EXTINF:-1, Zenebutik
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1176&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1176&ext=.m3u8
 #EXTINF:-1, Főnix TV
 https://stream.streaming4u.hu:443/FonixTV/index.m3u8
 #EXTINF:-1, Óbuda TV
 https://stream.streaming4u.hu:443/ObudaTV/index.m3u8
 #EXTINF:-1, TV4
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1106&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1106&ext=.m3u8
 #EXTINF:-1, Story4
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1108&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1108&ext=.m3u8
 #EXTINF:-1, Csurgó TV
 https://5cd03f21c7193.streamlock.net/csurgotv/csurgolive/playlist.m3u8
 #EXTINF:-1, AXN
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1147&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1147&ext=.m3u8
 #EXTINF:-1, Viasat 6
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1168&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1168&ext=.m3u8
 #EXTINF:-1, Film4
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1110&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1110&ext=.m3u8
 #EXTINF:-1, Pilis TV
 https://stream.streaming4u.hu:443/PilisTV/index.m3u8
 #EXTINF:-1, Globo TV
@@ -170,7 +168,7 @@ http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 #EXTINF:-1, Dikh TV
 http://152.66.115.226:33390/bysid/205
 #EXTINF:-1, FEM3
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1180&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1180&ext=.m3u8
 #EXTINF:-1, TV21 Ungvár
 rtmp://213.174.8.15:1935/live/danio
 #EXTINF:-1, Szécsény TV
@@ -186,7 +184,7 @@ http://152.66.115.226:33390/bysid/208
 #EXTINF:-1, Trimedio TV
 https://stream.streaming4u.hu/TriMedioTV/index.m3u8
 #EXTINF:-1, Spektrum Home
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1152&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1152&ext=.m3u8
 #EXTINF:-1, DragonHall+ TV
 https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 #EXTINF:-1, Gólya TV
@@ -196,7 +194,7 @@ https://stream.streaming4u.hu:443/RegioPluszTV/index.m3u8
 #EXTINF:-1, Oroszlányi Városi Televízió
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 #EXTINF:-1, AMC
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1113&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1113&ext=.m3u8
 #EXTINF:-1, Daru TV
 https://5cd03f21c7193.streamlock.net:443/darutv/darutvlive/playlist.m3u8
 #EXTINF:-1, Móra-Net TV
@@ -204,108 +202,108 @@ https://stream.moranettv.hu:443/live/index.m3u8
 #EXTINF:-1, Kiskőrös TV
 https://5cd03f21c7193.streamlock.net:443/kiskorostv/korostvlive/playlist.m3u8
 #EXTINF:-1, Jocky TV
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1174&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1174&ext=.m3u8
 #EXTINF:-1, Boomerang
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1163&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1163&ext=.m3u8
 #EXTINF:-1, Prime
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1172&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1172&ext=.m3u8
 #EXTINF:-1, Nicktoons
 http://80.82.21.146:4000/play/a04t/index.m3u8
 #EXTINF:-1, TV2 Kids
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1177&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1177&ext=.m3u8
 #EXTINF:-1, TeenNick
 http://80.82.21.146:4000/play/a03l/index.m3u8
 #EXTINF:-1, Sport 1
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1117&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1117&ext=.m3u8
 #EXTINF:-1, Sport 2
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1290&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1290&ext=.m3u8
 #EXTINF:-1, Moziverzum
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1175&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1175&ext=.m3u8
 #EXTINF:-1, Super TV2
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1169&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1169&ext=.m3u8
 #EXTINF:-1, Régió TV
 http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 #EXTINF:-1, Völgyhíd TV
 https://5cd03f21c7193.streamlock.net:443/volgyhidtv/mediakft/playlist.m3u8
 #EXTINF:-1, Viasat History
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1154&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1154&ext=.m3u8
 #EXTINF:-1, TV Paprika
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1112&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1112&ext=.m3u8
 #EXTINF:-1, Spektrum
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1151&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1151&ext=.m3u8
 #EXTINF:-1, Comedy Central
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1298&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1298&ext=.m3u8
 #EXTINF:-1, TLC
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1160&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1160&ext=.m3u8
 #EXTINF:-1, Nickelodeon
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1264&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1264&ext=.m3u8
 #EXTINF:-1, Nick Jr
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1265&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1265&ext=.m3u8
 #EXTINF:-1, Disney Channel
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1164&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1164&ext=.m3u8
 #EXTINF:-1, Discovery Channel
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1149&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1149&ext=.m3u8
 #EXTINF:-1, Berente TV
 https://stream.streaming4u.hu:443/BerenteTV/index.m3u8
 #EXTINF:-1, Animal Planet
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1155&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1155&ext=.m3u8
 #EXTINF:-1, TV2 Comedy
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1173&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1173&ext=.m3u8
 #EXTINF:-1, Viasat Nature
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1161&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1161&ext=.m3u8
 #EXTINF:-1, Filmbox Family
 http://80.82.21.146:4000/play/a016/index.m3u8
 #EXTINF:-1, Minimax
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1116&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1116&ext=.m3u8
 #EXTINF:-1, JimJam
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1165&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1165&ext=.m3u8
 #EXTINF:-1, Film Mánia
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1148&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1148&ext=.m3u8
 #EXTINF:-1, Arena4
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1144&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1144&ext=.m3u8
 #EXTINF:-1, TV2 Séf
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1178&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1178&ext=.m3u8
 #EXTINF:-1, AXN Black
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1187&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1187&ext=.m3u8
 #EXTINF:-1, CBS Reality
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1115&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1115&ext=.m3u8
 #EXTINF:-1, Viasat Explore
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1153&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1153&ext=.m3u8
 #EXTINF:-1, Epic Drama
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1114&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1114&ext=.m3u8
 #EXTINF:-1, Film Cafe
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1107&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1107&ext=.m3u8
 #EXTINF:-1, Cartoon Network
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1162&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1162&ext=.m3u8
 #EXTINF:-1, HGTV
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1247&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1247&ext=.m3u8
 #EXTINF:-1, Discovery Science
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1156&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1156&ext=.m3u8
 #EXTINF:-1, Investigation Discovery
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1158&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1158&ext=.m3u8
 #EXTINF:-1, Hévízi TV
 https://cloudfront44.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 #EXTINF:-1, Galaxy 4
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1109&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1109&ext=.m3u8
 #EXTINF:-1, Comedy Central Family
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1297&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1297&ext=.m3u8
 #EXTINF:-1, DTX
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1157&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1157&ext=.m3u8
 #EXTINF:-1, Travel
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1150&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1150&ext=.m3u8
 #EXTINF:-1, Food Network
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1159&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1159&ext=.m3u8
 #EXTINF:-1, Weekend TV
 https://stream.streaming4u.hu/WeekendTV/index.m3u8
 #EXTINF:-1, Paramount Network
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1296&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1296&ext=.m3u8
 #EXTINF:-1, Eurosport 1
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1145&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1145&ext=.m3u8
 #EXTINF:-1, Eurosport 2
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1146&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1146&ext=.m3u8
 #EXTINF:-1, Soltvadkerti Televízió
 http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
 #EXTINF:-1, Viasat Film
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1166&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1166&ext=.m3u8
 #EXTINF:-1, Viasat 2
-https://redirect.onlinestream.live/swredir.m3u8?s=28992c5f6d40d07f1b9e0318a2e4d092&id=1167&ext=.m3u8
+https://redirect.onlinestream.live/swredir.m3u8?s=0d553a71f366d6121ccf6eb9aab5b213&id=1167&ext=.m3u8
