@@ -1,10 +1,10 @@
-#EXTM3U update=2023-05-04 01:00
+#EXTM3U update=2023-05-05 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
 #EXTINF:-1, Kanizsa TV
 https://91.82.85.44:1540/HDE024.webm
 #EXTINF:-1, Max4
-https://cdn.mediaklikk.org:443/max4/zITM0EDN
+https://cdn.mediaklikk.org:443/max4/zITM0ETN
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -33,6 +33,8 @@ http://stream.tveger.hu:8010/hls/live.m3u8
 https://citytv.hu:443/media/live/stream.m3u8
 #EXTINF:-1, Rákosmente TV
 http://rakosmentetv.hu:8080/hls/rmtv.m3u8
+#EXTINF:-1, Budapest Európa Televízió
+https://cloudfront44.lexanetwork.com:1344/freerelay/bpetv.sdp/playlist.m3u8
 #EXTINF:-1, Gyöngyösi TV
 https://cloudfront41.lexanetwork.com:1344/relay02/livestream005.sdp/playlist.m3u8
 #EXTINF:-1, Putnok Városi Televízió
@@ -68,7 +70,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://stream01.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/zITM0EDN.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/zITM0ETN.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -102,17 +104,17 @@ https://stream.nmih.hu:7962/live.m3u8
 #EXTINF:-1, TV Budakalász
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, M1
-https://redirect.onlinestream.live/mkredir.m3u8?s=7c25dffaa0e4c1da55090d3c30d224e2&video=mtv1live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=1107314a834dac3b870f8a0f95cac216&video=mtv1live&ext=.m3u8
 #EXTINF:-1, M2 / Petőfi TV
-https://redirect.onlinestream.live/mkredir.m3u8?s=7c25dffaa0e4c1da55090d3c30d224e2&video=mtv2live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=1107314a834dac3b870f8a0f95cac216&video=mtv2live&ext=.m3u8
 #EXTINF:-1, M4 Sport
-https://redirect.onlinestream.live/mkredir.m3u8?s=7c25dffaa0e4c1da55090d3c30d224e2&video=mtv4live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=1107314a834dac3b870f8a0f95cac216&video=mtv4live&ext=.m3u8
 #EXTINF:-1, M5
-https://redirect.onlinestream.live/mkredir.m3u8?s=7c25dffaa0e4c1da55090d3c30d224e2&video=mtv5live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=1107314a834dac3b870f8a0f95cac216&video=mtv5live&ext=.m3u8
 #EXTINF:-1, Duna
-https://redirect.onlinestream.live/mkredir.m3u8?s=7c25dffaa0e4c1da55090d3c30d224e2&video=dunalive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=1107314a834dac3b870f8a0f95cac216&video=dunalive&ext=.m3u8
 #EXTINF:-1, Duna World / M4 Sport+
-https://redirect.onlinestream.live/mkredir.m3u8?s=7c25dffaa0e4c1da55090d3c30d224e2&video=dunaworldlive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=1107314a834dac3b870f8a0f95cac216&video=dunaworldlive&ext=.m3u8
 #EXTINF:-1, Viasat 3
 http://194.76.186.33:8000/play/a03u/index.m3u8
 #EXTINF:-1, Balaton TV
@@ -179,6 +181,8 @@ http://195.189.62.141:8000/play/a00y/index.m3u8
 rtmp://213.174.8.15:1935/live/danio
 #EXTINF:-1, Szécsény TV
 http://iptv.eurocable.co.hu:80/EC-SZECSENYTVHD/index.m3u8
+#EXTINF:-1, Alföld TV
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 #EXTINF:-1, Komlós TV
 https://stream.streaming4u.hu:443/KomlosTV/index.m3u8
 #EXTINF:-1, Pannon Televízió
@@ -213,8 +217,6 @@ http://195.189.62.141:8000/play/a01l/index.m3u8
 http://195.189.62.141:8000/play/a01x/index.m3u8
 #EXTINF:-1, TV2 Kids
 http://194.76.186.33:8000/play/a033/index.m3u8
-#EXTINF:-1, TeenNick
-http://82.77.111.73:8413/play/a01t/index.m3u8
 #EXTINF:-1, Sport 1
 http://194.76.186.33:8000/play/a00v/index.m3u8
 #EXTINF:-1, Sport 2
@@ -239,8 +241,6 @@ http://194.76.186.33:8000/play/a011/index.m3u8
 http://194.76.186.33:8000/play/a010/index.m3u8
 #EXTINF:-1, Comedy Central
 http://195.189.62.141:8000/play/a00s
-#EXTINF:-1, TLC
-http://82.77.111.73:8413/play/a02k/index.m3u8
 #EXTINF:-1, Nickelodeon
 http://195.189.62.141:8000/play/a011/index.m3u8
 #EXTINF:-1, Nick Jr
