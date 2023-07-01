@@ -1,4 +1,4 @@
-#EXTM3U update=2023-06-29 01:00
+#EXTM3U update=2023-07-01 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
 #EXTINF:-1, Max4
@@ -8,11 +8,11 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
 #EXTINF:-1, Izaura TV
-http://195.189.62.141:8000/play/a00w/index.m3u8
+https://cdn.mediaklikk.org:443/izaura/zITM2ETM
 #EXTINF:-1, TV2
 http://194.76.186.33:8000/play/a023/index.m3u8
 #EXTINF:-1, RTL
-http://195.189.62.141:8000/play/a01v/index.m3u8
+https://cdn.mediaklikk.org:443/rtl/zITM2ETM
 #EXTINF:-1, Lóverseny közvetítés
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1, Móri Városi TV
@@ -68,7 +68,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://streamservers.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/00wMyETNxkjM.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/zITM2ETM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -106,17 +106,17 @@ https://stream.nmih.hu:7962/live.m3u8
 #EXTINF:-1, TV Budakalász
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, M1
-https://redirect.onlinestream.live/mkredir.m3u8?s=2dca6b3b18794bd02851533978674dde&video=mtv1live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=58bc362734414596e0ec7d968e57f166&video=mtv1live&ext=.m3u8
 #EXTINF:-1, M2 / Petőfi TV
-https://redirect.onlinestream.live/mkredir.m3u8?s=2dca6b3b18794bd02851533978674dde&video=mtv2live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=58bc362734414596e0ec7d968e57f166&video=mtv2live&ext=.m3u8
 #EXTINF:-1, M4 Sport
-https://redirect.onlinestream.live/mkredir.m3u8?s=2dca6b3b18794bd02851533978674dde&video=mtv4live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=58bc362734414596e0ec7d968e57f166&video=mtv4live&ext=.m3u8
 #EXTINF:-1, M5
-https://redirect.onlinestream.live/mkredir.m3u8?s=2dca6b3b18794bd02851533978674dde&video=mtv5live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=58bc362734414596e0ec7d968e57f166&video=mtv5live&ext=.m3u8
 #EXTINF:-1, Duna
-https://redirect.onlinestream.live/mkredir.m3u8?s=2dca6b3b18794bd02851533978674dde&video=dunalive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=58bc362734414596e0ec7d968e57f166&video=dunalive&ext=.m3u8
 #EXTINF:-1, Duna World / M4 Sport+
-https://redirect.onlinestream.live/mkredir.m3u8?s=2dca6b3b18794bd02851533978674dde&video=dunaworldlive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=58bc362734414596e0ec7d968e57f166&video=dunaworldlive&ext=.m3u8
 #EXTINF:-1, Viasat 3
 http://194.76.186.33:8000/play/a03u/index.m3u8
 #EXTINF:-1, Balaton TV
@@ -155,8 +155,6 @@ http://194.76.186.33:8000/play/a05f/index.m3u8
 http://194.76.186.33:8000/play/a02x/index.m3u8
 #EXTINF:-1, Sláger TV
 http://146.59.85.40:89/slager/index.m3u8
-#EXTINF:-1, Zenebutik
-http://195.189.62.141:8000/play/a013/index.m3u8
 #EXTINF:-1, Főnix TV
 https://stream.streaming4u.hu:443/FonixTV/index.m3u8
 #EXTINF:-1, Óbuda TV
@@ -183,8 +181,6 @@ https://stream.streaming4u.hu:443/GloboTV/index.m3u8
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 #EXTINF:-1, Dikh TV
 http://194.76.186.33:8000/play/a04h/index.m3u8
-#EXTINF:-1, FEM3
-http://195.189.62.141:8000/play/a00y/index.m3u8
 #EXTINF:-1, TV21 Ungvár
 rtmp://213.174.8.15:1935/live/danio
 #EXTINF:-1, Szécsény TV
@@ -219,10 +215,6 @@ https://stream.moranettv.hu:443/live/index.m3u8
 https://stream.medialive.hu:1443/kiskorostv/korostvlive/playlist.m3u8
 #EXTINF:-1, Jocky TV
 http://146.59.85.40:89/jocky/index.m3u8
-#EXTINF:-1, Prime
-http://195.189.62.141:8000/play/a01l/index.m3u8
-#EXTINF:-1, Nicktoons
-http://195.189.62.141:8000/play/a01x/index.m3u8
 #EXTINF:-1, TV2 Kids
 http://146.59.85.40:89/tv2kids/index.m3u8
 #EXTINF:-1, Sport 1
@@ -235,8 +227,6 @@ http://194.76.186.33:8000/play/a015/index.m3u8
 http://146.59.85.40:89/spiler1/index.m3u8
 #EXTINF:-1, Spíler 2
 http://146.59.85.40:89/spiler2/index.m3u8
-#EXTINF:-1, Super TV2
-http://195.189.62.141:8000/play/a01p/index.m3u8
 #EXTINF:-1, Régió TV
 http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 #EXTINF:-1, Völgyhíd TV
@@ -293,8 +283,6 @@ http://146.59.85.40:89/axnblack/index.m3u8
 http://146.59.85.40:89/cbsreality/index.m3u8
 #EXTINF:-1, Viasat Explore
 http://194.76.186.33:8000/play/a02w/index.m3u8
-#EXTINF:-1, Epic Drama
-http://195.189.62.141:8000/play/a01j/index.m3u8
 #EXTINF:-1, HBO2
 http://146.59.85.40:89/hbo2/index.m3u8
 #EXTINF:-1, HBO3
@@ -303,8 +291,6 @@ http://146.59.85.40:89/hbo3sd/index.m3u8
 http://146.59.85.40:89/cinemax/index.m3u8
 #EXTINF:-1, Cinemax 2
 http://146.59.85.40:89/cinemax2/index.m3u8
-#EXTINF:-1, Extreme Sports Channel
-http://195.189.62.141:8000/play/a01u/index.m3u8
 #EXTINF:-1, Film Cafe
 http://194.76.186.33:8000/play/a01c/index.m3u8
 #EXTINF:-1, ATV Spirit
@@ -312,7 +298,7 @@ http://146.59.85.40:89/atvspirit/index.m3u8
 #EXTINF:-1, Cartoon Network
 http://194.76.186.33:8000/play/a02r/index.m3u8
 #EXTINF:-1, History
-http://194.76.186.33:8000/play/a02h/index.m3u8
+http://194.76.186.33:8000/play/a047/index.m3u8
 #EXTINF:-1, Discovery Science
 http://146.59.85.40:89/discoverysciencehd/index.m3u8
 #EXTINF:-1, Investigation Discovery
