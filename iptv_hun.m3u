@@ -1,4 +1,4 @@
-#EXTM3U update=2023-07-15 01:00
+#EXTM3U update=2023-07-16 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
 #EXTINF:-1, Max4
@@ -8,11 +8,11 @@ https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
 #EXTINF:-1, Izaura TV
-https://cdn.mediaklikk.org:443/izaura/00wMyEjNxUTM
+https://cdn.mediaklikk.org:443/izaura/00wMyEjNxYTM
 #EXTINF:-1, TV2
 http://194.76.186.33:8000/play/a023/index.m3u8
 #EXTINF:-1, RTL
-https://cdn.mediaklikk.org:443/rtl/00wMyEjNxUTM
+https://cdn.mediaklikk.org:443/rtl/00wMyEjNxYTM
 #EXTINF:-1, Lóverseny közvetítés
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1, Móri Városi TV
@@ -59,12 +59,14 @@ http://79.120.178.90:1935/csornatv/tvlive/playlist.m3u8
 https://cloudfront41.lexanetwork.com:1344/relay03/livestream003.sdp/playlist.m3u8
 #EXTINF:-1, Pannon RTV
 https://stream2.nmih.hu:4102/live.m3u8
+#EXTINF:-1, BTKT TV
+https://stream.medialive.hu:1443/btkt/udp.stream_360p/index.m3u8
 #EXTINF:-1, Halom TV
 http://stream.battanet.hu:8080/hls/livestream1/index.m3u8
 #EXTINF:-1, ATV
 https://streamservers.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/00wMyEjNxUTM.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/00wMyEjNxYTM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -102,17 +104,17 @@ https://stream.nmih.hu:7962/live.m3u8
 #EXTINF:-1, TV Budakalász
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, M1
-https://redirect.onlinestream.live/mkredir.m3u8?s=6af9800855806b7da632edc5a2cb5b79&video=mtv1live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=a89c13dac25639fcc9fb18739a5a95a7&video=mtv1live&ext=.m3u8
 #EXTINF:-1, M2 / Petőfi TV
-https://redirect.onlinestream.live/mkredir.m3u8?s=6af9800855806b7da632edc5a2cb5b79&video=mtv2live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=a89c13dac25639fcc9fb18739a5a95a7&video=mtv2live&ext=.m3u8
 #EXTINF:-1, M4 Sport
-https://redirect.onlinestream.live/mkredir.m3u8?s=6af9800855806b7da632edc5a2cb5b79&video=mtv4live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=a89c13dac25639fcc9fb18739a5a95a7&video=mtv4live&ext=.m3u8
 #EXTINF:-1, M5
-https://redirect.onlinestream.live/mkredir.m3u8?s=6af9800855806b7da632edc5a2cb5b79&video=mtv5live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=a89c13dac25639fcc9fb18739a5a95a7&video=mtv5live&ext=.m3u8
 #EXTINF:-1, Duna
-https://redirect.onlinestream.live/mkredir.m3u8?s=6af9800855806b7da632edc5a2cb5b79&video=dunalive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=a89c13dac25639fcc9fb18739a5a95a7&video=dunalive&ext=.m3u8
 #EXTINF:-1, Duna World / M4 Sport+
-https://redirect.onlinestream.live/mkredir.m3u8?s=6af9800855806b7da632edc5a2cb5b79&video=dunaworldlive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=a89c13dac25639fcc9fb18739a5a95a7&video=dunaworldlive&ext=.m3u8
 #EXTINF:-1, Viasat 3
 http://194.76.186.33:8000/play/a03u/index.m3u8
 #EXTINF:-1, Balaton TV
@@ -220,7 +222,7 @@ http://194.76.186.33:8000/play/a015/index.m3u8
 #EXTINF:-1, Spíler 1
 http://146.59.85.40:89/spiler1/index.m3u8
 #EXTINF:-1, Spíler 2
-http://194.76.186.33:8000/play/a014/index.m3u8
+http://146.59.85.40:89/spiler2/index.m3u8
 #EXTINF:-1, Régió TV
 http://tv.geniusnet.sk:8081/regiotv/pl.m3u8
 #EXTINF:-1, Völgyhíd TV
@@ -266,7 +268,7 @@ http://194.76.186.33:8000/play/a03q/index.m3u8
 #EXTINF:-1, Arena4
 http://194.76.186.33:8000/play/a01x/index.m3u8
 #EXTINF:-1, TV2 Séf
-http://194.76.186.33:8000/play/a02s/index.m3u8
+http://146.59.85.40:89/tv2sef/index.m3u8
 #EXTINF:-1, Digi Animal World
 http://194.76.186.33:8000/play/a02l/index.m3u8
 #EXTINF:-1, AXN White
@@ -291,6 +293,8 @@ http://194.76.186.33:8000/play/a01c/index.m3u8
 http://146.59.85.40:89/atvspirit/index.m3u8
 #EXTINF:-1, Cartoon Network
 http://194.76.186.33:8000/play/a02r/index.m3u8
+#EXTINF:-1, HGTV
+http://185.6.22.6:8000/play/a031
 #EXTINF:-1, History
 http://194.76.186.33:8000/play/a047/index.m3u8
 #EXTINF:-1, Discovery Science
@@ -307,8 +311,10 @@ http://194.76.186.33:8000/play/a04k/index.m3u8
 http://146.59.85.40:89/comedyfamily/index.m3u8
 #EXTINF:-1, BBC Earth
 http://146.59.85.40:89/bbcearthsd/index.m3u8
+#EXTINF:-1, DTX
+http://185.216.167.18:5555/play/a05s
 #EXTINF:-1, Travel Channel
-http://194.76.186.33:8000/play/a02i/index.m3u8
+http://146.59.85.40:89/travel/index.m3u8
 #EXTINF:-1, Weekend TV
 https://stream.streaming4u.hu/WeekendTV/index.m3u8
 #EXTINF:-1, Love Nature
