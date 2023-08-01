@@ -1,18 +1,14 @@
-#EXTM3U update=2023-07-31 01:00
+#EXTM3U update=2023-08-01 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
-#EXTINF:-1, Max4
-https://nettv.flynet.hu:443/live/max4.m3u8
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
-#EXTINF:-1, Izaura TV
-https://nettv.flynet.hu:443/live/izauratvhd.m3u8
 #EXTINF:-1, TV2
 https://nettv.flynet.hu:443/live/tv2hd.m3u8
 #EXTINF:-1, RTL
-https://cdn.mediaklikk.org:443/rtl/00wMyEjNxEzM
+https://cdn.mediaklikk.org:443/rtl/zITM3ETM
 #EXTINF:-1, Lóverseny közvetítés
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1, Móri Városi TV
@@ -108,17 +104,17 @@ https://nettv.flynet.hu:443/live/euronews.m3u8
 #EXTINF:-1, TV Budakalász
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, M1
-https://redirect.onlinestream.live/mkredir.m3u8?s=ac463ec902ee878a3d87f763d45bfa0e&video=mtv1live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=ab2e410314a6de29d7ccd4e725f4fc97&video=mtv1live&ext=.m3u8
 #EXTINF:-1, M2 / Petőfi TV
-https://redirect.onlinestream.live/mkredir.m3u8?s=ac463ec902ee878a3d87f763d45bfa0e&video=mtv2live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=ab2e410314a6de29d7ccd4e725f4fc97&video=mtv2live&ext=.m3u8
 #EXTINF:-1, M4 Sport
-https://redirect.onlinestream.live/mkredir.m3u8?s=ac463ec902ee878a3d87f763d45bfa0e&video=mtv4live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=ab2e410314a6de29d7ccd4e725f4fc97&video=mtv4live&ext=.m3u8
 #EXTINF:-1, M5
-https://redirect.onlinestream.live/mkredir.m3u8?s=ac463ec902ee878a3d87f763d45bfa0e&video=mtv5live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=ab2e410314a6de29d7ccd4e725f4fc97&video=mtv5live&ext=.m3u8
 #EXTINF:-1, Duna
-https://redirect.onlinestream.live/mkredir.m3u8?s=ac463ec902ee878a3d87f763d45bfa0e&video=dunalive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=ab2e410314a6de29d7ccd4e725f4fc97&video=dunalive&ext=.m3u8
 #EXTINF:-1, Duna World / M4 Sport+
-https://redirect.onlinestream.live/mkredir.m3u8?s=ac463ec902ee878a3d87f763d45bfa0e&video=dunaworldlive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=ab2e410314a6de29d7ccd4e725f4fc97&video=dunaworldlive&ext=.m3u8
 #EXTINF:-1, Viasat 3
 http://194.76.186.33:8000/play/a03u/index.m3u8
 #EXTINF:-1, Balaton TV
@@ -157,6 +153,8 @@ http://194.76.186.33:8000/play/a02x/index.m3u8
 http://146.59.85.40:89/slager/index.m3u8
 #EXTINF:-1, Zenebutik
 https://nettv.flynet.hu:443/live/zenebutik.m3u8
+#EXTINF:-1, Izaura TV
+https://nettv.flynet.hu:443/live/izauratvhd.m3u8
 #EXTINF:-1, Főnix TV
 https://stream.streaming4u.hu:443/FonixTV/index.m3u8
 #EXTINF:-1, Óbuda TV
@@ -341,6 +339,8 @@ http://194.76.186.33:8000/play/a03r/index.m3u8
 http://194.76.186.33:8000/play/a022/index.m3u8
 #EXTINF:-1, Soltvadkerti Televízió
 http://79.120.178.90:1935/soltvadkerttv/soltvlive/playlist.m3u8
+#EXTINF:-1, Max4
+https://nettv.flynet.hu:443/live/max4.m3u8
 #EXTINF:-1, Viasat Film
 http://194.76.186.33:8000/play/a03x/index.m3u8
 #EXTINF:-1, Viasat 2
