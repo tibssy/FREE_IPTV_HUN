@@ -1,4 +1,4 @@
-#EXTM3U update=2023-08-02 01:00
+#EXTM3U update=2023-08-03 01:00
 #EXTINF:-1, Debrecen Televízió
 https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
 #EXTINF:-1, 16tv Budapest
@@ -100,17 +100,17 @@ https://nettv.flynet.hu:443/live/euronews.m3u8
 #EXTINF:-1, TV Budakalász
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, M1
-https://redirect.onlinestream.live/mkredir.m3u8?s=fa3d39b8d4a3672669a7559babad8a63&video=mtv1live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=726a1fec905edf1a47170b07d4363080&video=mtv1live&ext=.m3u8
 #EXTINF:-1, M2 / Petőfi TV
-https://redirect.onlinestream.live/mkredir.m3u8?s=fa3d39b8d4a3672669a7559babad8a63&video=mtv2live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=726a1fec905edf1a47170b07d4363080&video=mtv2live&ext=.m3u8
 #EXTINF:-1, M4 Sport
-https://redirect.onlinestream.live/mkredir.m3u8?s=fa3d39b8d4a3672669a7559babad8a63&video=mtv4live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=726a1fec905edf1a47170b07d4363080&video=mtv4live&ext=.m3u8
 #EXTINF:-1, M5
-https://redirect.onlinestream.live/mkredir.m3u8?s=fa3d39b8d4a3672669a7559babad8a63&video=mtv5live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=726a1fec905edf1a47170b07d4363080&video=mtv5live&ext=.m3u8
 #EXTINF:-1, Duna
-https://redirect.onlinestream.live/mkredir.m3u8?s=fa3d39b8d4a3672669a7559babad8a63&video=dunalive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=726a1fec905edf1a47170b07d4363080&video=dunalive&ext=.m3u8
 #EXTINF:-1, Duna World / M4 Sport+
-https://redirect.onlinestream.live/mkredir.m3u8?s=fa3d39b8d4a3672669a7559babad8a63&video=dunaworldlive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=726a1fec905edf1a47170b07d4363080&video=dunaworldlive&ext=.m3u8
 #EXTINF:-1, Viasat 3
 http://194.76.186.33:8000/play/a03u/index.m3u8
 #EXTINF:-1, Balaton TV
@@ -228,7 +228,7 @@ http://194.76.186.33:8000/play/a015/index.m3u8
 #EXTINF:-1, Spíler 1
 http://146.59.85.40:89/spiler1/index.m3u8
 #EXTINF:-1, Spíler 2
-http://194.76.186.33:8000/play/a014/index.m3u8
+http://146.59.85.40:89/spiler2/index.m3u8
 #EXTINF:-1, Super TV2
 https://nettv.flynet.hu:443/live/supertv2hd.m3u8
 #EXTINF:-1, Régió TV
@@ -363,5 +363,5 @@ http://212.200.255.151:80/rtv1/stream.flv
 https://stream.medialive.hu:443/gran/grantvlive/playlist.m3u8
 #EXTINF:-1, Duck TV
 https://nettv.flynet.hu:443/live/ducktv.m3u8
-#EXTINF:-1, Kisduna TV Dunaharaszti
+#EXTINF:-1, KisDunaTV
 http://nettv.flynet.hu:443/live/kisdunatv.m3u8
