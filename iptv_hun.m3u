@@ -1,4 +1,4 @@
-#EXTM3U update=2023-08-26 01:00
+#EXTM3U update=2023-08-27 01:00
 #EXTINF:-1, Max4
 https://nettv.flynet.hu:443/live/max4.m3u8
 #EXTINF:-1, 16tv Budapest
@@ -10,7 +10,7 @@ https://nettv.flynet.hu:443/live/izauratvhd.m3u8
 #EXTINF:-1, TV2
 https://nettv.flynet.hu:443/live/tv2hd.m3u8
 #EXTINF:-1, RTL
-https://cdn.mediaklikk.org:443/rtl/00wMyEzNxYjM
+https://cdn.mediaklikk.org:443/rtl/00wMyEzNxcjM
 #EXTINF:-1, Lóverseny közvetítés
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1, Móri Városi TV
@@ -22,7 +22,7 @@ https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m
 #EXTINF:-1, Zugló TV
 https://cloudfront41.lexanetwork.com:1540/HDE022.webm
 #EXTINF:-1, Fehérvár TV
-https://cloudfront44.lexanetwork.com:1540/HDE016.webm
+https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
 #EXTINF:-1, TV Keszthely
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
 #EXTINF:-1, Kanizsa TV
@@ -67,8 +67,6 @@ http://stream.battanet.hu:8080/hls/livestream1/index.m3u8
 https://streamservers.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
 https://nettv.flynet.hu:443/live/hirtv.m3u8
-#EXTINF:-1, Williams TV
-http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
 https://cloudfront44.lexanetwork.com:1344/relay01/livestream004.sdp/playlist.m3u8
 #EXTINF:-1, XVTV
@@ -87,6 +85,8 @@ https://cloudfront44.lexanetwork.com:1344/relay01/broadcast006.sdp/playlist.m3u8
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1, Kapos TV
 https://cloudfront44.lexanetwork.com:1344/relay01/broadcast004.sdp/playlist.m3u8
+#EXTINF:-1, Bábolna TV
+https://cloudfront44.lexanetwork.com:1344/freerelay/babolnatv.sdp/playlist.m3u8
 #EXTINF:-1, Makó TV
 http://makomedia.mikrohalo.hu:80/hls/makotv.m3u8
 #EXTINF:-1, 7.tv
@@ -104,17 +104,17 @@ https://nettv.flynet.hu:443/live/euronews.m3u8
 #EXTINF:-1, TV Budakalász
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, M1
-https://redirect.onlinestream.live/mkredir.m3u8?s=e230deb335f9d58f20429d207cd22312&video=mtv1live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=a40827a20f14239363b4bf8bf9ca4021&video=mtv1live&ext=.m3u8
 #EXTINF:-1, M2 / Petőfi TV
-https://redirect.onlinestream.live/mkredir.m3u8?s=e230deb335f9d58f20429d207cd22312&video=mtv2live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=a40827a20f14239363b4bf8bf9ca4021&video=mtv2live&ext=.m3u8
 #EXTINF:-1, M4 Sport
-https://redirect.onlinestream.live/mkredir.m3u8?s=e230deb335f9d58f20429d207cd22312&video=mtv4live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=a40827a20f14239363b4bf8bf9ca4021&video=mtv4live&ext=.m3u8
 #EXTINF:-1, M5
-https://redirect.onlinestream.live/mkredir.m3u8?s=e230deb335f9d58f20429d207cd22312&video=mtv5live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=a40827a20f14239363b4bf8bf9ca4021&video=mtv5live&ext=.m3u8
 #EXTINF:-1, Duna
-https://redirect.onlinestream.live/mkredir.m3u8?s=e230deb335f9d58f20429d207cd22312&video=dunalive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=a40827a20f14239363b4bf8bf9ca4021&video=dunalive&ext=.m3u8
 #EXTINF:-1, Duna World / M4 Sport+
-https://redirect.onlinestream.live/mkredir.m3u8?s=e230deb335f9d58f20429d207cd22312&video=dunaworldlive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=a40827a20f14239363b4bf8bf9ca4021&video=dunaworldlive&ext=.m3u8
 #EXTINF:-1, Viasat 3
 http://194.76.186.33:8000/play/a03u/index.m3u8
 #EXTINF:-1, Balaton TV
@@ -214,7 +214,7 @@ http://194.76.186.33:8000/play/a033/index.m3u8
 #EXTINF:-1, Sport 1
 http://194.76.186.33:8000/play/a00v/index.m3u8
 #EXTINF:-1, Sport 2
-http://146.59.85.40:89/sport2/index.m3u8
+http://194.76.186.33:8000/play/a01b/index.m3u8
 #EXTINF:-1, Moziverzum
 http://194.76.186.33:8000/play/a015/index.m3u8
 #EXTINF:-1, Spíler 1
@@ -273,8 +273,6 @@ http://194.76.186.33:8000/play/a02s/index.m3u8
 http://194.76.186.33:8000/play/a02l/index.m3u8
 #EXTINF:-1, AXN White
 http://146.59.85.40:89/axnwhite/index.m3u8
-#EXTINF:-1, AXN Black
-http://146.59.85.40:89/axnblack/index.m3u8
 #EXTINF:-1, CBS Reality
 http://185.6.22.6:8000/play/a02w
 #EXTINF:-1, Viasat Explore
