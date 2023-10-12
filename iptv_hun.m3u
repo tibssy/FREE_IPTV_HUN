@@ -1,4 +1,6 @@
-#EXTM3U update=2023-10-11 01:00
+#EXTM3U update=2023-10-12 01:00
+#EXTINF:-1, Kanizsa TV
+https://91.82.85.44:1540/HDE024.webm
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -17,8 +19,6 @@ https://cloudfront41.lexanetwork.com:1540/HDE022.webm
 https://cloudfront44.lexanetwork.com:1344/freerelay/fehervartv.sdp/playlist.m3u8
 #EXTINF:-1, TV Keszthely
 https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
-#EXTINF:-1, Kanizsa TV
-https://91.82.85.44:1540/HDE024.webm
 #EXTINF:-1, TV Eger
 http://stream.tveger.hu:8010/hls/live.m3u8
 #EXTINF:-1, City TV
@@ -98,17 +98,17 @@ https://nettv.flynet.hu:443/live/euronews.m3u8
 #EXTINF:-1, TV Budakalász
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, M1
-https://redirect.onlinestream.live/mkredir.m3u8?s=ceeffdb154e74f027956421baffc65fe&video=mtv1live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=e5b4e6b6e9e5a744fce7a10d507562bd&video=mtv1live&ext=.m3u8
 #EXTINF:-1, M2 / Petőfi TV
-https://redirect.onlinestream.live/mkredir.m3u8?s=ceeffdb154e74f027956421baffc65fe&video=mtv2live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=e5b4e6b6e9e5a744fce7a10d507562bd&video=mtv2live&ext=.m3u8
 #EXTINF:-1, M4 Sport
-https://redirect.onlinestream.live/mkredir.m3u8?s=ceeffdb154e74f027956421baffc65fe&video=mtv4live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=e5b4e6b6e9e5a744fce7a10d507562bd&video=mtv4live&ext=.m3u8
 #EXTINF:-1, M5
-https://redirect.onlinestream.live/mkredir.m3u8?s=ceeffdb154e74f027956421baffc65fe&video=mtv5live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=e5b4e6b6e9e5a744fce7a10d507562bd&video=mtv5live&ext=.m3u8
 #EXTINF:-1, Duna
-https://redirect.onlinestream.live/mkredir.m3u8?s=ceeffdb154e74f027956421baffc65fe&video=dunalive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=e5b4e6b6e9e5a744fce7a10d507562bd&video=dunalive&ext=.m3u8
 #EXTINF:-1, Duna World / M4 Sport+
-https://redirect.onlinestream.live/mkredir.m3u8?s=ceeffdb154e74f027956421baffc65fe&video=dunaworldlive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=e5b4e6b6e9e5a744fce7a10d507562bd&video=dunaworldlive&ext=.m3u8
 #EXTINF:-1, Viasat 3
 https://nettv.flynet.hu:443/live/viasat3.m3u8
 #EXTINF:-1, Balaton TV
@@ -201,6 +201,8 @@ https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 https://stream.streaming4u.hu:443/GolyaTV/index.m3u8
 #EXTINF:-1, RégióPlusz TV
 https://stream.streaming4u.hu:443/RegioPluszTV/index.m3u8
+#EXTINF:-1, Oroszlányi Városi Televízió
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 #EXTINF:-1, AMC
 https://nettv.flynet.hu:443/live/amc.m3u8
 #EXTINF:-1, Móra-Net TV
