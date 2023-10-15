@@ -1,4 +1,4 @@
-#EXTM3U update=2023-10-14 01:00
+#EXTM3U update=2023-10-15 01:00
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -100,17 +100,17 @@ https://nettv.flynet.hu:443/live/euronews.m3u8
 #EXTINF:-1, TV Budakalász
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, M1
-https://redirect.onlinestream.live/mkredir.m3u8?s=c198c6e86eaa0089a04695d8a0d054e5&video=mtv1live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=8c1a278ebbc631df8f1dea3cb152fb99&video=mtv1live&ext=.m3u8
 #EXTINF:-1, M2 / Petőfi TV
-https://redirect.onlinestream.live/mkredir.m3u8?s=c198c6e86eaa0089a04695d8a0d054e5&video=mtv2live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=8c1a278ebbc631df8f1dea3cb152fb99&video=mtv2live&ext=.m3u8
 #EXTINF:-1, M4 Sport
-https://redirect.onlinestream.live/mkredir.m3u8?s=c198c6e86eaa0089a04695d8a0d054e5&video=mtv4live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=8c1a278ebbc631df8f1dea3cb152fb99&video=mtv4live&ext=.m3u8
 #EXTINF:-1, M5
-https://redirect.onlinestream.live/mkredir.m3u8?s=c198c6e86eaa0089a04695d8a0d054e5&video=mtv5live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=8c1a278ebbc631df8f1dea3cb152fb99&video=mtv5live&ext=.m3u8
 #EXTINF:-1, Duna
-https://redirect.onlinestream.live/mkredir.m3u8?s=c198c6e86eaa0089a04695d8a0d054e5&video=dunalive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=8c1a278ebbc631df8f1dea3cb152fb99&video=dunalive&ext=.m3u8
 #EXTINF:-1, Duna World / M4 Sport+
-https://redirect.onlinestream.live/mkredir.m3u8?s=c198c6e86eaa0089a04695d8a0d054e5&video=dunaworldlive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=8c1a278ebbc631df8f1dea3cb152fb99&video=dunaworldlive&ext=.m3u8
 #EXTINF:-1, Viasat 3
 https://nettv.flynet.hu:443/live/viasat3.m3u8
 #EXTINF:-1, Balaton TV
@@ -123,6 +123,8 @@ http://149.62.183.194:9293/play/a0de
 http://149.62.183.194:9293/play/a07z
 #EXTINF:-1, Sopron TV
 https://redirect.onlinestream.live/sopronmedia.m3u8
+#EXTINF:-1, Parlament TV
+https://iptv01.eurocable.co.hu:443/EC-PARLAMENTTVHD/index.m3u8
 #EXTINF:-1, RTL
 http://149.62.183.194:9293/play/a068
 #EXTINF:-1, RTL Kettő
@@ -365,3 +367,5 @@ https://nettv.flynet.hu:443/live/ducktv.m3u8
 http://nettv.flynet.hu:443/live/kisdunatv.m3u8
 #EXTINF:-1, NickMusic
 http://149.62.183.194:9293/play/a06y
+#EXTINF:-1, Hajdúhadház VTV
+https://iptv01.eurocable.co.hu/EC-HTBTVHD/index.m3u8
