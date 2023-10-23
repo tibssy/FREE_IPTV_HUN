@@ -1,4 +1,4 @@
-#EXTM3U update=2023-10-22 01:00
+#EXTM3U update=2023-10-23 01:00
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -100,17 +100,17 @@ https://nettv.flynet.hu:443/live/euronews.m3u8
 #EXTINF:-1, TV Budakalász
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, M1
-https://redirect.onlinestream.live/mkredir.m3u8?s=ce18ae4e5bfa65f4e5702f16d687751d&video=mtv1live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=d80fa0b68608e3c79b86179d24e0b1c1&video=mtv1live&ext=.m3u8
 #EXTINF:-1, M2 / Petőfi TV
-https://redirect.onlinestream.live/mkredir.m3u8?s=ce18ae4e5bfa65f4e5702f16d687751d&video=mtv2live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=d80fa0b68608e3c79b86179d24e0b1c1&video=mtv2live&ext=.m3u8
 #EXTINF:-1, M4 Sport
-https://redirect.onlinestream.live/mkredir.m3u8?s=ce18ae4e5bfa65f4e5702f16d687751d&video=mtv4live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=d80fa0b68608e3c79b86179d24e0b1c1&video=mtv4live&ext=.m3u8
 #EXTINF:-1, M5
-https://redirect.onlinestream.live/mkredir.m3u8?s=ce18ae4e5bfa65f4e5702f16d687751d&video=mtv5live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=d80fa0b68608e3c79b86179d24e0b1c1&video=mtv5live&ext=.m3u8
 #EXTINF:-1, Duna
-https://redirect.onlinestream.live/mkredir.m3u8?s=ce18ae4e5bfa65f4e5702f16d687751d&video=dunalive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=d80fa0b68608e3c79b86179d24e0b1c1&video=dunalive&ext=.m3u8
 #EXTINF:-1, Duna World / M4 Sport+
-https://redirect.onlinestream.live/mkredir.m3u8?s=ce18ae4e5bfa65f4e5702f16d687751d&video=dunaworldlive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=d80fa0b68608e3c79b86179d24e0b1c1&video=dunaworldlive&ext=.m3u8
 #EXTINF:-1, Viasat 3
 https://nettv.flynet.hu:443/live/viasat3.m3u8
 #EXTINF:-1, Balaton TV
