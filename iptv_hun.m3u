@@ -1,4 +1,4 @@
-#EXTM3U update=2023-10-29 01:00
+#EXTM3U update=2023-10-30 01:00
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -100,17 +100,17 @@ https://nettv.flynet.hu:443/live/euronews.m3u8
 #EXTINF:-1, TV Budakalász
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, M1
-https://redirect.onlinestream.live/mkredir.m3u8?s=b2f2d476a3258f0df0e6188518a1885b&video=mtv1live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=7197b874e2084f875f6d7f0451c91095&video=mtv1live&ext=.m3u8
 #EXTINF:-1, M2 / Petőfi TV
-https://redirect.onlinestream.live/mkredir.m3u8?s=b2f2d476a3258f0df0e6188518a1885b&video=mtv2live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=7197b874e2084f875f6d7f0451c91095&video=mtv2live&ext=.m3u8
 #EXTINF:-1, M4 Sport
-https://redirect.onlinestream.live/mkredir.m3u8?s=b2f2d476a3258f0df0e6188518a1885b&video=mtv4live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=7197b874e2084f875f6d7f0451c91095&video=mtv4live&ext=.m3u8
 #EXTINF:-1, M5
-https://redirect.onlinestream.live/mkredir.m3u8?s=b2f2d476a3258f0df0e6188518a1885b&video=mtv5live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=7197b874e2084f875f6d7f0451c91095&video=mtv5live&ext=.m3u8
 #EXTINF:-1, Duna
-https://redirect.onlinestream.live/mkredir.m3u8?s=b2f2d476a3258f0df0e6188518a1885b&video=dunalive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=7197b874e2084f875f6d7f0451c91095&video=dunalive&ext=.m3u8
 #EXTINF:-1, Duna World / M4 Sport+
-https://redirect.onlinestream.live/mkredir.m3u8?s=b2f2d476a3258f0df0e6188518a1885b&video=dunaworldlive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=7197b874e2084f875f6d7f0451c91095&video=dunaworldlive&ext=.m3u8
 #EXTINF:-1, Viasat 3
 https://nettv.flynet.hu:443/live/viasat3.m3u8
 #EXTINF:-1, Balaton TV
@@ -171,8 +171,6 @@ https://nettv.flynet.hu:443/live/film4.m3u8
 https://stream.streaming4u.hu:443/PilisTV/index.m3u8
 #EXTINF:-1, Globo TV
 https://stream.streaming4u.hu:443/GloboTV/index.m3u8
-#EXTINF:-1, Erdély TV
-http://94.53.216.16:9981/stream/channelid/605283746
 #EXTINF:-1, DSTV
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 #EXTINF:-1, Dikh TV
@@ -182,7 +180,7 @@ https://nettv.flynet.hu:443/live/fem3.m3u8
 #EXTINF:-1, PAX Televízió
 https://nettv.flynet.hu:443/live/paxtv.m3u8
 #EXTINF:-1, TV21 Ungvár
-rtmp://213.174.8.15:1935/live/danio
+https://www.twitch.tv/21ungvar
 #EXTINF:-1, Szécsény TV
 http://iptv.eurocable.co.hu:80/EC-SZECSENYTVHD/index.m3u8
 #EXTINF:-1, Alföld TV
@@ -215,8 +213,6 @@ https://stream.medialive.hu:1443/kiskorostv/korostvlive/playlist.m3u8
 https://nettv.flynet.hu:443/live/jockytv.m3u8
 #EXTINF:-1, Prime
 http://nettv.flynet.hu:443/live/prime.m3u8
-#EXTINF:-1, Nicktoons
-http://94.53.216.16:9981/stream/channelid/933031536
 #EXTINF:-1, TV2 Kids
 http://149.62.183.194:9293/play/a0fj
 #EXTINF:-1, Sport 1
