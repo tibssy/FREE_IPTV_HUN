@@ -1,6 +1,4 @@
-#EXTM3U update=2023-12-15 01:00
-#EXTINF:-1, Hajdúhadház VTV
-https://iptv01.eurocable.co.hu/EC-HTBTVHD/index.m3u8
+#EXTM3U update=2023-12-16 01:00
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
@@ -62,7 +60,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://streamservers.atv.hu:443/atvlive/atvstream_2_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/0MjMxETMxUTM.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/0MjMxETMxYTM.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -96,17 +94,17 @@ https://stream.nmih.hu:7962/live.m3u8
 #EXTINF:-1, TV Budakalász
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, M1
-https://redirect.onlinestream.live/mkredir.m3u8?s=6800a93f1b5e3e22c55e2def36f2f62e&video=mtv1live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=2f67b8d5483590adc61d025a2c400a26&video=mtv1live&ext=.m3u8
 #EXTINF:-1, M2 / Petőfi TV
-https://redirect.onlinestream.live/mkredir.m3u8?s=6800a93f1b5e3e22c55e2def36f2f62e&video=mtv2live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=2f67b8d5483590adc61d025a2c400a26&video=mtv2live&ext=.m3u8
 #EXTINF:-1, M4 Sport
-https://redirect.onlinestream.live/mkredir.m3u8?s=6800a93f1b5e3e22c55e2def36f2f62e&video=mtv4live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=2f67b8d5483590adc61d025a2c400a26&video=mtv4live&ext=.m3u8
 #EXTINF:-1, M5
-https://redirect.onlinestream.live/mkredir.m3u8?s=6800a93f1b5e3e22c55e2def36f2f62e&video=mtv5live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=2f67b8d5483590adc61d025a2c400a26&video=mtv5live&ext=.m3u8
 #EXTINF:-1, Duna
-https://redirect.onlinestream.live/mkredir.m3u8?s=6800a93f1b5e3e22c55e2def36f2f62e&video=dunalive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=2f67b8d5483590adc61d025a2c400a26&video=dunalive&ext=.m3u8
 #EXTINF:-1, Duna World / M4 Sport+
-https://redirect.onlinestream.live/mkredir.m3u8?s=6800a93f1b5e3e22c55e2def36f2f62e&video=dunaworldlive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=2f67b8d5483590adc61d025a2c400a26&video=dunaworldlive&ext=.m3u8
 #EXTINF:-1, Balaton TV
 https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 #EXTINF:-1, Apostol TV
@@ -173,3 +171,5 @@ https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE038.sdp/playlist.m3u8
 http://212.200.255.151:80/rtv1/stream.flv
 #EXTINF:-1, Gran TV
 https://stream.medialive.hu:443/gran/grantvlive/playlist.m3u8
+#EXTINF:-1, Hajdúhadház VTV
+https://iptv01.eurocable.co.hu/EC-HTBTVHD/index.m3u8
