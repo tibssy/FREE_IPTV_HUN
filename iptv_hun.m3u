@@ -1,18 +1,18 @@
-#EXTM3U update=2024-03-04 01:00
+#EXTM3U update=2024-03-06 01:00
 #EXTINF:-1, Max4
-https://cdn.mediaklikk.org:443/max4/0ITMyEDN
+https://cdn.mediaklikk.org:443/max4/0ITMyEjN
 #EXTINF:-1, Spektrum Home
-https://cdn.mediaklikk.org:443/spektrumhome/0ITMyEDN
+https://cdn.mediaklikk.org:443/spektrumhome/0ITMyEjN
 #EXTINF:-1, 16tv Budapest
-https://cloudfront41.lexanetwork.com:1540/HDE033.webm
+https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
 #EXTINF:-1, Izaura TV
-https://cdn.mediaklikk.org:443/izaura/0ITMyEDN
+https://cdn.mediaklikk.org:443/izaura/0ITMyEjN
 #EXTINF:-1, TV2
-https://cdn.mediaklikk.org:443/tv2/0ITMyEDN
+https://cdn.mediaklikk.org:443/tv2/0ITMyEjN
 #EXTINF:-1, RTL
-https://cdn.mediaklikk.org:443/rtl/0ITMyEDN
+https://cdn.mediaklikk.org:443/rtl/0ITMyEjN
 #EXTINF:-1, Lóverseny közvetítés
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1, Móri Városi TV
@@ -20,7 +20,7 @@ https://cloudfront41.lexanetwork.com:1540/HDE027.webm
 #EXTINF:-1, Komáromi Televízió
 https://cloudfront63.lexanetwork.com:1540/HDE017.webm
 #EXTINF:-1, Debrecen Televízió
-https://cloudfront44.lexanetwork.com:1540/HDE003.webm
+https://cloudfront44.lexanetwork.com:1344/relay44_1/livestream002.sdp/playlist.m3u8
 #EXTINF:-1, Zugló TV
 https://cloudfront41.lexanetwork.com:1540/HDE022.webm
 #EXTINF:-1, Fehérvár TV
@@ -66,7 +66,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://streamservers.atv.hu:443/atvlive/atvstream_1_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/0ITMyEDN.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/0ITMyEjN.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -104,17 +104,17 @@ https://stream.nmih.hu:7962/live.m3u8
 #EXTINF:-1, TV Budakalász
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, M1
-https://redirect.onlinestream.live/mkredir.m3u8?s=a87a9ec3c4877241a95c6540abd3e552&video=mtv1live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=af831e22456ac446aee98914c2434681&video=mtv1live&ext=.m3u8
 #EXTINF:-1, M2 / Petőfi TV
-https://redirect.onlinestream.live/mkredir.m3u8?s=a87a9ec3c4877241a95c6540abd3e552&video=mtv2live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=af831e22456ac446aee98914c2434681&video=mtv2live&ext=.m3u8
 #EXTINF:-1, M4 Sport
-https://redirect.onlinestream.live/mkredir.m3u8?s=a87a9ec3c4877241a95c6540abd3e552&video=mtv4live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=af831e22456ac446aee98914c2434681&video=mtv4live&ext=.m3u8
 #EXTINF:-1, M5
-https://redirect.onlinestream.live/mkredir.m3u8?s=a87a9ec3c4877241a95c6540abd3e552&video=mtv5live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=af831e22456ac446aee98914c2434681&video=mtv5live&ext=.m3u8
 #EXTINF:-1, Duna
-https://redirect.onlinestream.live/mkredir.m3u8?s=a87a9ec3c4877241a95c6540abd3e552&video=dunalive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=af831e22456ac446aee98914c2434681&video=dunalive&ext=.m3u8
 #EXTINF:-1, Duna World / M4 Sport+
-https://redirect.onlinestream.live/mkredir.m3u8?s=a87a9ec3c4877241a95c6540abd3e552&video=dunaworldlive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=af831e22456ac446aee98914c2434681&video=dunaworldlive&ext=.m3u8
 #EXTINF:-1, Balaton TV
 https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 #EXTINF:-1, Apostol TV
@@ -137,6 +137,8 @@ http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 https://www.twitch.tv/21ungvar
 #EXTINF:-1, Szécsény TV
 http://iptv.eurocable.co.hu:80/EC-SZECSENYTVHD/index.m3u8
+#EXTINF:-1, Alföld TV
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream006.sdp/playlist.m3u8
 #EXTINF:-1, Komlós TV
 https://stream.streaming4u.hu:443/KomlosTV/index.m3u8
 #EXTINF:-1, Trimedio TV
@@ -147,6 +149,8 @@ https://tv.dragonhall.hu:443/live/dragonhall.m3u8
 https://stream.streaming4u.hu:443/GolyaTV/index.m3u8
 #EXTINF:-1, RégióPlusz TV
 https://stream.streaming4u.hu:443/RegioPluszTV/index.m3u8
+#EXTINF:-1, Oroszlányi Városi Televízió
+https://cloudfront44.lexanetwork.com:1344/relay01/broadcast002.sdp/playlist.m3u8
 #EXTINF:-1, Daru TV
 https://5cd03f21c7193.streamlock.net:443/darutv/darutvlive/playlist.m3u8
 #EXTINF:-1, Móra-Net TV
@@ -171,5 +175,3 @@ https://iptv01.eurocable.co.hu:443/EC-HANGULATTV/index.m3u8
 https://cloudfront44.lexanetwork.com:1344/relay44_1/HDE038.sdp/playlist.m3u8
 #EXTINF:-1, Gran TV
 https://stream.medialive.hu:443/gran/grantvlive/playlist.m3u8
-#EXTINF:-1, Hajdúhadház VTV
-https://iptv01.eurocable.co.hu/EC-HTBTVHD/index.m3u8
