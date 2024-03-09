@@ -1,18 +1,18 @@
-#EXTM3U update=2024-03-08 01:00
+#EXTM3U update=2024-03-09 01:00
 #EXTINF:-1, Max4
-https://cdn.mediaklikk.org:443/max4/0ITMyEDO
+https://cdn.mediaklikk.org:443/max4/0ITMyETO
 #EXTINF:-1, Spektrum Home
-https://cdn.mediaklikk.org:443/spektrumhome/0ITMyEDO
+https://cdn.mediaklikk.org:443/spektrumhome/0ITMyETO
 #EXTINF:-1, 16tv Budapest
 https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8
 #EXTINF:-1, Mezőkövesdi Televízió
 https://cloudfront44.lexanetwork.com:1344/freerelay/mezokovesdvtv.sdp/playlist.m3u8
 #EXTINF:-1, Izaura TV
-https://cdn.mediaklikk.org:443/izaura/0ITMyEDO
+https://cdn.mediaklikk.org:443/izaura/0ITMyETO
 #EXTINF:-1, TV2
-https://cdn.mediaklikk.org:443/tv2/0ITMyEDO
+https://cdn.mediaklikk.org:443/tv2/0ITMyETO
 #EXTINF:-1, RTL
-https://cdn.mediaklikk.org:443/rtl/0ITMyEDO
+https://cdn.mediaklikk.org:443/rtl/0ITMyETO
 #EXTINF:-1, Lóverseny közvetítés
 https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
 #EXTINF:-1, Móri Városi TV
@@ -66,7 +66,7 @@ https://stream.nmih.hu:7982/live.m3u8
 #EXTINF:-1, ATV
 https://streamservers.atv.hu:443/atvlive/atvstream_1_aac/playlist.m3u8
 #EXTINF:-1, Hír TV
-https://player.mediaklikk.org:443/hirtv_delayed/0ITMyEDO.m3u8
+https://player.mediaklikk.org:443/hirtv_delayed/0ITMyETO.m3u8
 #EXTINF:-1, Williams TV
 http://79.120.178.90:1935/williams/williamstv/playlist.m3u8
 #EXTINF:-1, Szolnok TV
@@ -104,17 +104,17 @@ https://stream.nmih.hu:7962/live.m3u8
 #EXTINF:-1, TV Budakalász
 https://stream.streaming4u.hu:443/TVBudakalasz/index.m3u8
 #EXTINF:-1, M1
-https://redirect.onlinestream.live/mkredir.m3u8?s=909a52fa1d201de5be58fa552371ebb5&video=mtv1live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=95f606dd4db86a3e078c47eed0274c07&video=mtv1live&ext=.m3u8
 #EXTINF:-1, M2 / Petőfi TV
-https://redirect.onlinestream.live/mkredir.m3u8?s=909a52fa1d201de5be58fa552371ebb5&video=mtv2live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=95f606dd4db86a3e078c47eed0274c07&video=mtv2live&ext=.m3u8
 #EXTINF:-1, M4 Sport
-https://redirect.onlinestream.live/mkredir.m3u8?s=909a52fa1d201de5be58fa552371ebb5&video=mtv4live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=95f606dd4db86a3e078c47eed0274c07&video=mtv4live&ext=.m3u8
 #EXTINF:-1, M5
-https://redirect.onlinestream.live/mkredir.m3u8?s=909a52fa1d201de5be58fa552371ebb5&video=mtv5live&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=95f606dd4db86a3e078c47eed0274c07&video=mtv5live&ext=.m3u8
 #EXTINF:-1, Duna
-https://redirect.onlinestream.live/mkredir.m3u8?s=909a52fa1d201de5be58fa552371ebb5&video=dunalive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=95f606dd4db86a3e078c47eed0274c07&video=dunalive&ext=.m3u8
 #EXTINF:-1, Duna World / M4 Sport+
-https://redirect.onlinestream.live/mkredir.m3u8?s=909a52fa1d201de5be58fa552371ebb5&video=dunaworldlive&ext=.m3u8
+https://redirect.onlinestream.live/mkredir.m3u8?s=95f606dd4db86a3e078c47eed0274c07&video=dunaworldlive&ext=.m3u8
 #EXTINF:-1, Balaton TV
 https://stream.iptvservice.eu:443/hls/balatontv.m3u8
 #EXTINF:-1, Apostol TV
